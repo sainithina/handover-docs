@@ -1,28 +1,5 @@
 # Credentials Checklist (names only — no secret values)
 
-**Policy for this handover:** document *where* credentials live and *which keys* matter.  
-**Never** paste live values into this folder, into email, or into a zip.
-
-Transfer actual secrets via **1Password / Bitwarden / company vault**, then rotate anything that was tied to Sai’s personal login.
-
----
-
-## Local files that currently hold secrets (do not email)
-
-| File | Contains |
-|---|---|
-| `/Users/sainithinartham/Downloads/gravton-console/.env` | Full stack: DB, Airflow, LLM keys, DataForSEO, AWS, OAuth, Langfuse, … |
-| `/Users/sainithinartham/Downloads/ai-demand-case2/.env` | OpenRouter + DataForSEO for Case2 |
-| `/Users/sainithinartham/Downloads/gravton-frontend/.env` | Frontend proxy / OAuth client id |
-| `/Users/sainithinartham/Downloads/gravton-pem-file.pem` | Infra SSH / PEM — **critical; hand over out-of-band, then revoke** |
-| `gravton-console_simple_auth_manager_passwords.json.generated.bak` | Generated Airflow passwords — do not distribute |
-
-Templates (safe to share):
-
-- `gravton-console/.env.example`
-- `ai-demand-case2/.env.example`
-- `gravton-frontend/.env.example`
-
 ---
 
 ## P0 — Volume prediction (Case2)
