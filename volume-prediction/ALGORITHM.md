@@ -1,6 +1,5 @@
 # Volume Prediction Algorithm — Handover (P0)
 
-**This is the most important item in the departure pack.**
 
 Product name in docs: **AI Demand Estimation (Case 2)** — Bayesian fusion of classic search volume (**SV**) and AI search volume (**ASV**) into monthly AI-demand estimates per prompt / intent.
 
