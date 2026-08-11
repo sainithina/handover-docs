@@ -78,24 +78,6 @@ Inputs confirmed → Brand/topic setup → Prompts → Volume + AI responses →
 
 **Tip:** Run Approach 2 once per vertical, then Approach 1 reports in that vertical to reuse themes.
 
----
-
-## QA before send
-
-- [ ] Competitor/peer list approved  
-- [ ] Prompt count and funnel mix look right  
-- [ ] Financial section shows assumptions  
-- [ ] Narrative framed as **modeled opportunity**, not guaranteed revenue  
-
----
-
-## When to use which
-
-| Situation | Use |
-|---|---|
-| Active deal, named prospect | **Approach 1** |
-| Category entry, investor deck, vertical GTM | **Approach 2** |
-| Tight budget / first proof | **Approach 2 at 20 prompts** (~$8–12, ~1–1.5 hrs) |
 
 ---
 
