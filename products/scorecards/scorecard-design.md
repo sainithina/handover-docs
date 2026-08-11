@@ -19,17 +19,6 @@ Standalone HTML reports that show how buyers discover and evaluate brands via AI
 
 ---
 
-## Cost & turnaround (single pass)
-
-One automated run: setup → prompts → volume → responses → HTML. No retries.
-
-| | Approach 2 pilot (20 prompts) | Approach 1 (25 prompts) | Approach 2 full (100 prompts) |
-|---|---|---|---|
-| **Automated runtime** | **~15 min** | **~20 min** | **~50 min** |
-| **Human (inputs + QA)** | **~1 hr** | **~1–2 hrs** | **~2 hrs** |
-| **Total turnaround** | **~1–1.5 hrs** | **~2–3 hrs** same day | **~3–4 hrs** |
-| **Data cost** | **~$8–12** | **~$12–22** | **~$50–85** |
-
 **Pilot measured (Aug 2026 — Beauty & Skincare, US, 5 peers, 20-prompt cap, single pass):**
 
 | Step | Time |
@@ -40,17 +29,6 @@ One automated run: setup → prompts → volume → responses → HTML. No retri
 | AI responses (20 prompts × 2 models) | ~11 min |
 | Report assembly | ~instant |
 | **Automated total** | **~15 min** |
-
-**Data cost split (single pass):**
-
-| Step | 20 prompts | 25 prompts | 100 prompts |
-|---|---|---|---|
-| Volume lookup | ~$4–7 | ~$5–10 | ~$20–40 |
-| AI responses (2 models) | ~$2–4 | ~$3–6 | ~$12–28 |
-| Bootstrap + prompt LLM | ~$0.15 | ~$0.15 | ~$0.20 |
-| AI Readiness (Approach 1 only) | — | ~$2–5 | — |
-
-**Cheaper pilots:** single model or skip AI Readiness → **~$6–10**, **~10 min** automated.
 
 ---
 
