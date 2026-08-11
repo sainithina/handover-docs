@@ -1,0 +1,31 @@
+{
+  "company_name": "Wiz",
+  "aliases": ["Wiz.io"],
+  "description": "Wiz is a cloud security platform for enterprise teams, including AI application security, posture management, and runtime protection for cloud AI workloads.",
+  "industry": "B2B SaaS",
+  "sub_industry": "Cloud security / AI application security",
+  "products_services": [
+    {
+      "name": "Wiz Cloud Security Platform",
+      "description": "Agentless cloud security with AI security posture and application protection capabilities.",
+      "key_features": [
+        "AI security posture management",
+        "Cloud workload protection",
+        "Security Graph",
+        "Runtime threat detection"
+      ],
+      "target_users": ["Enterprise cloud security teams", "CISOs", "DevSecOps"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [],
+  "primary_geos": ["United States"],
+  "primary_languages": ["en"],
+  "competitors": [
+    {"name": "Protect AI", "url": null},
+    {"name": "Securiti", "url": null}
+  ],
+  "differentiators": [],
+  "brand_voice_notes": null,
+  "compliance_or_regulatory_notes": null
+}

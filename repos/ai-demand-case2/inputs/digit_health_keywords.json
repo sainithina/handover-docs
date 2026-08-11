@@ -1,0 +1,114 @@
+{
+  "company_name": "Digit Insurance",
+  "intents": [
+    {
+      "intent_name": "Portability & Transfer",
+      "intent_id": "portability_and_transfer",
+      "prompts": [
+        "health insurance portability",
+        "how to port health insurance",
+        "port health insurance",
+        "waiting period in health insurance"
+      ]
+    },
+    {
+      "intent_name": "OPD Coverage",
+      "intent_id": "opd_coverage",
+      "prompts": [
+        "health insurance with opd cover",
+        "health insurance with opd"
+      ]
+    },
+    {
+      "intent_name": "Top-Up Plans",
+      "intent_id": "top_up_plans",
+      "prompts": [
+        "super top up plan",
+        "best super top up health insurance",
+        "super top up policy",
+        "health insurance top up plan",
+        "super top up"
+      ]
+    },
+    {
+      "intent_name": "Group / Employer Health Insurance",
+      "intent_id": "group_employer_health_insurance",
+      "prompts": [
+        "group health insurance for employees",
+        "group insurance for employees",
+        "group mediclaim insurance policy for employees",
+        "group health insurance",
+        "group health insurance policy",
+        "group medical insurance",
+        "group insurance policy for employees",
+        "group mediclaim policy for employees",
+        "corporate health insurance"
+      ]
+    },
+    {
+      "intent_name": "Family & Senior Coverage",
+      "intent_id": "family_and_senior_coverage",
+      "prompts": [
+        "family health insurance plans",
+        "health insurance for parents",
+        "parents health insurance tax benefit",
+        "medical insurance for parents",
+        "health insurance plans for senior citizens",
+        "health insurance for senior citizens",
+        "medical insurance for senior citizens",
+        "mediclaim for family",
+        "mediclaim for senior citizens"
+      ]
+    },
+    {
+      "intent_name": "General Health Insurance & Policies",
+      "intent_id": "general_health_insurance_policies",
+      "prompts": [
+        "health insurance",
+        "individual health insurance",
+        "types of health insurance",
+        "arogya sanjeevani policy",
+        "health insurance in india",
+        "health insurance policy",
+        "health insurance policy in india",
+        "health policy",
+        "health insurance plans",
+        "health insurance plans in india",
+        "best health insurance policy in india",
+        "best health insurance plans in india",
+        "medical insurance",
+        "medical insurance india",
+        "medical insurance online",
+        "medical health insurance",
+        "medical insurance plans",
+        "medical insurance policy",
+        "mediclaim policy",
+        "mediclaim insurance",
+        "critical illness policy",
+        "benefits of health insurance"
+      ]
+    },
+    {
+      "intent_name": "Online Purchasing & Quotes",
+      "intent_id": "online_purchasing_and_quotes",
+      "prompts": [
+        "buy health insurance online",
+        "online health insurance",
+        "buy health insurance",
+        "health insurance quotes",
+        "health insurance premium calculator",
+        "health insurance premium",
+        "health insurance calculator"
+      ]
+    },
+    {
+      "intent_name": "Personal Accident Insurance",
+      "intent_id": "personal_accident_insurance",
+      "prompts": [
+        "best accidental insurance plan",
+        "group personal accident insurance",
+        "personal accident policy"
+      ]
+    }
+  ]
+}

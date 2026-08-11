@@ -1,0 +1,67 @@
+Keywords: ['digit health insurance', 'health insurance', 'check policy premium digit', 'check premium breakdown', 'digit health insurance premium', 'digit health insurance waiting period', 'digit pre-existing waiting period', 'digit premium details', 'digit senior citizen health insurance', 'digit waiting period pre-existing conditions']
+Location: [2840, 2356] | Language: en
+------------------------------------------------------------
+
+--- Raw API response ---
+{
+  "version": "0.1.20260430",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0443 sec.",
+  "cost": 0,
+  "tasks_count": 1,
+  "tasks_error": 1,
+  "tasks": [
+    {
+      "id": "05151650-1383-0401-0000-69a8009ba058",
+      "status_code": 40501,
+      "status_message": "Invalid Field: 'location_code'.",
+      "time": "0 sec.",
+      "cost": 0,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "dataforseo_labs",
+        "google",
+        "historical_search_volume",
+        "live"
+      ],
+      "data": {
+        "api": "dataforseo_labs",
+        "function": "historical_search_volume",
+        "se_type": "google",
+        "keywords": [
+          "digit health insurance",
+          "health insurance",
+          "check policy premium digit",
+          "check premium breakdown",
+          "digit health insurance premium",
+          "digit health insurance waiting period",
+          "digit pre-existing waiting period",
+          "digit premium details",
+          "digit senior citizen health insurance",
+          "digit waiting period pre-existing conditions"
+        ],
+        "location_code": [
+          2840,
+          2356
+        ],
+        "language_code": "en",
+        "search_partners": true
+      },
+      "result": null
+    }
+  ]
+}
+
+--- Parsed results (via DataForSEOSVClient) ---
+  digit health insurance: ERROR Invalid Field: 'location_code'.
+  health insurance: ERROR Invalid Field: 'location_code'.
+  check policy premium digit: ERROR Invalid Field: 'location_code'.
+  check premium breakdown: ERROR Invalid Field: 'location_code'.
+  digit health insurance premium: ERROR Invalid Field: 'location_code'.
+  digit health insurance waiting period: ERROR Invalid Field: 'location_code'.
+  digit pre-existing waiting period: ERROR Invalid Field: 'location_code'.
+  digit premium details: ERROR Invalid Field: 'location_code'.
+  digit senior citizen health insurance: ERROR Invalid Field: 'location_code'.
+  digit waiting period pre-existing conditions: ERROR Invalid Field: 'location_code'.

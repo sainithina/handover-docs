@@ -1,0 +1,35 @@
+{
+  "company_name": "Digit Insurance",
+  "intents": [
+    {
+      "intent_name": "Portability & Transfer",
+      "intent_id": "portability_and_transfer",
+      "prompts": [
+        "what is health insurance portability",
+        "how does health insurance portability work in India",
+        "health insurance portability rules explained",
+        "difference between health insurance portability and migration",
+        "when can a health insurance policy be ported",
+        "how waiting period works in health insurance",
+        "types of waiting period in health insurance",
+        "does waiting period transfer when porting health insurance",
+        "how to port health insurance policy to a new insurer",
+        "best health insurance company for portability in India",
+        "what to check before porting health insurance",
+        "health insurance portability documents required",
+        "health insurance portability waiting period comparison",
+        "Digit vs HDFC ERGO health insurance portability",
+        "Digit vs ICICI Lombard health insurance portability",
+        "Digit vs Star Health insurance portability",
+        "Digit vs Niva Bupa health insurance portability",
+        "Digit health insurance portability process",
+        "Digit health insurance waiting period for pre existing diseases",
+        "can waiting period be reduced by porting to Digit health insurance",
+        "Digit health insurance portability documents and timeline",
+        "how to apply for portability to Digit health insurance at renewal",
+        "how to track a health insurance portability request",
+        "why is a health insurance portability request delayed or rejected"
+      ]
+    }
+  ]
+}

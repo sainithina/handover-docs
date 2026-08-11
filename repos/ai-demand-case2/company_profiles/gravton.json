@@ -1,0 +1,37 @@
+{
+  "company_name": "Gravton",
+  "aliases": ["Gravton Console", "gravton.ai"],
+  "description": "Gravton is an AI visibility and generative engine optimization (GEO) platform for B2B marketing teams. It helps brands track how they appear in AI search and assistants, monitor citations and share of voice, analyze buyer prompts, and optimize content for AI discovery.",
+  "industry": "B2B SaaS",
+  "sub_industry": "AI visibility / GEO / marketing intelligence",
+  "products_services": [
+    {
+      "name": "AI Visibility Platform",
+      "description": "Track brand presence, citations, and competitive positioning across AI platforms.",
+      "key_features": [
+        "Prompt tracking",
+        "Citation monitoring",
+        "Share of voice",
+        "Content optimization"
+      ],
+      "target_users": ["B2B marketing leaders", "Growth teams", "Content strategists"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [],
+  "primary_geos": ["United States"],
+  "primary_languages": ["en"],
+  "competitors": [
+    {"name": "Profound", "url": "https://www.tryprofound.com"},
+    {"name": "Peec AI", "url": null},
+    {"name": "Otterly", "url": null},
+    {"name": "Conductor", "url": null}
+  ],
+  "differentiators": [],
+  "common_misconceptions": [],
+  "regulated_or_sensitive_topics": [],
+  "seed_queries": [],
+  "must_include_terms": [],
+  "must_avoid_terms": [],
+  "explicit_keywords": []
+}

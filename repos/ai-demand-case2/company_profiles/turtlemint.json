@@ -1,0 +1,131 @@
+{
+  "company_name": "Turtlemint",
+  "aliases": ["Turtlemint.com", "Turtlemint Insurance", "Turtlefin", "TurtlemintPro"],
+  "description": "Turtlemint is an insurance technology platform trusted by advisors and consumers. 1.6Cr+ policies sold, 5L+ advisors, 42 insurers. Three pillars: (1) Turtlemint Consumer App—all insurance in one place, instant quotes for health, car, bike, life; policy tracking, claims support, renewal reminders. (2) TurtlemintPro—advisor app to sell insurance, mutual funds, loans; marketing tools, customer management, POSP training with 500+ videos. (3) Turtlefin—embedded insurance and SaaS for banks, NBFCs, insurers, e-commerce; APIs for digital product launch in under 30 days. Compare and buy insurance online. Technology trusted by advisors.",
+  "industry": "Insurance",
+  "sub_industry": "Insurance Aggregator / InsurTech Platform",
+  "products_services": [
+    {
+      "name": "Turtlemint Consumer App",
+      "description": "All your insurance in one place. Compare and buy health, car, bike, life insurance with instant quotes.",
+      "key_features": [
+        "Policies at your fingertips",
+        "Track policy benefits, share with family",
+        "Claims support and guidance",
+        "Renewal reminders and exclusive offers"
+      ],
+      "target_users": ["Individual consumers", "Families", "Vehicle owners"],
+      "pricing_notes": null
+    },
+    {
+      "name": "TurtlemintPro Advisor App",
+      "description": "Trusted partner for insurance advisors. Sell insurance, mutual funds, loans and grow your business.",
+      "key_features": [
+        "Wide range of insurance, investment, credit, loan products",
+        "Marketing tools for lead generation",
+        "Dedicated relationship manager",
+        "POSP training: 500+ videos, webinars, classroom sessions"
+      ],
+      "target_users": ["Insurance advisors", "POSP agents", "IFA distributors"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Turtlefin Embedded Solutions",
+      "description": "Insurance technology for banks, e-commerce, fintech and enterprises. APIs and SaaS.",
+      "key_features": [
+        "Banks & NBFCs: one-stop digital insurance across channels",
+        "Insurers: API platform, go-to-market in under 30 days",
+        "E-commerce: attach and sell insurance in online journeys"
+      ],
+      "target_users": ["Banks", "NBFCs", "Insurers", "E-commerce platforms", "Fintechs"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "Insurance Advisor",
+      "role": "Agent / POSP",
+      "seniority": "Individual contributor",
+      "goals": [
+        "Sell more policies",
+        "Access multiple insurers",
+        "Grow customer base"
+      ],
+      "pains": [
+        "Limited product access",
+        "Manual processes",
+        "Training gaps"
+      ],
+      "typical_workflow": "Get quotes, compare products, sell to customers, manage renewals",
+      "constraints": []
+    },
+    {
+      "name": "Consumer Buyer",
+      "role": "Individual",
+      "seniority": "N/A",
+      "goals": [
+        "Compare insurance online",
+        "Get best price",
+        "Manage policies easily"
+      ],
+      "pains": [
+        "Too many options",
+        "Complex comparison"
+      ],
+      "typical_workflow": "Compare quotes, buy policy, track and renew",
+      "constraints": []
+    },
+    {
+      "name": "Bank / Fintech Product Manager",
+      "role": "Product",
+      "seniority": "Mid to senior",
+      "goals": [
+        "Embed insurance in customer journey",
+        "Launch digital insurance fast",
+        "Increase revenue"
+      ],
+      "pains": [
+        "Long integration cycles",
+        "Multiple insurer integrations"
+      ],
+      "typical_workflow": "Evaluate embedded solutions, integrate APIs, launch",
+      "constraints": []
+    }
+  ],
+  "primary_geos": ["India"],
+  "primary_languages": ["en", "hi"],
+  "competitors": [
+    {"name": "Policybazaar", "aliases": ["PB"], "notes": null},
+    {"name": "Acko", "aliases": [], "notes": null},
+    {"name": "Digit Insurance", "aliases": ["GoDigit"], "notes": null},
+    {"name": "Coverfox", "aliases": [], "notes": null},
+    {"name": "BimaPe", "aliases": [], "notes": null}
+  ],
+  "differentiators": [
+    "1.6Cr+ policies sold",
+    "5L+ advisors on platform",
+    "42 insurers",
+    "Technology trusted by advisors",
+    "Turtlefin: embedded insurance for banks, fintechs",
+    "POSP training with 500+ videos"
+  ],
+  "common_misconceptions": [],
+  "regulated_or_sensitive_topics": ["Insurance"],
+  "seed_queries": [],
+  "must_include_terms": [
+    "insurance",
+    "compare",
+    "advisor"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "Turtlemint",
+    "Turtlemint insurance",
+    "TurtlemintPro",
+    "Turtlefin",
+    "insurance advisor app",
+    "compare insurance online",
+    "embedded insurance",
+    "insurance aggregator"
+  ]
+}

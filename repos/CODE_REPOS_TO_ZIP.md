@@ -1,12 +1,18 @@
 # Code Repos to Zip
 
-Local absolute paths on Sai’s machine (Downloads workspace). Prefer **git remotes** when the recipient already has GitHub access; zip when they need a self-contained drop.
+## Already in this handover repo
+
+| Path in handover-docs | What it is |
+|---|---|
+| [`repos/ai-demand-case2/`](./ai-demand-case2/) | **P0** Case2 volume algorithm source (copied without `runs/`, `.env`) |
+
+Local absolute paths below are on Sai’s machine if you need the originals or other stacks. Prefer **git remotes** when the recipient already has GitHub access.
 
 ## Tier 1 — must send (algorithm + products you own)
 
 | # | Local path | Git? | Why | Zip notes |
 |---|---|---|---|---|
-| 1 | `/Users/sainithinartham/Downloads/ai-demand-case2` | local tree | **P0 volume algorithm** + hospitality metrics + research plans | Exclude `runs/`, `.env`, `__pycache__` (~237MB of runs alone) |
+| 1 | `repos/ai-demand-case2/` **(in this repo)** or `/Users/sainithinartham/Downloads/ai-demand-case2` | in handover-docs | **P0 volume algorithm** + hospitality metrics + research plans | Already included here; local original still has large `runs/` |
 | 2 | `/Users/sainithinartham/Downloads/gravton-console` | yes | Production backend, Airflow, vendored Case2, scorecards, demand map, agents | Exclude `.env`, `.venv`, `gravton_dump.sql`; ~1.9G full |
 | 3 | `/Users/sainithinartham/Downloads/gravton-frontend` | yes | Scorecard-ops, demand-map, citations, agents UI | Exclude `node_modules/`, `dist/`, `.env` |
 | 4 | `/Users/sainithinartham/Downloads/gravton-docs` | no | This handover pack + original scorecard docs | Small; send whole folder |

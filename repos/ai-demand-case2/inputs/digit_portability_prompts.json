@@ -1,0 +1,35 @@
+{
+  "company_name": "Digit Insurance",
+  "intents": [
+    {
+      "intent_name": "Portability & Transfer",
+      "intent_id": "portability_and_transfer",
+      "prompts": [
+        "I already have health insurance and want to switch insurers without losing benefits—how does portability work in India?",
+        "I'm confused about waiting periods in health insurance—what carries over if I port my policy?",
+        "Should I port my health insurance at renewal or just continue with my current insurer?",
+        "I have a pre-existing disease—will portability help me avoid starting the waiting period again?",
+        "What should I check before porting a health insurance policy in India?",
+        "Can I port my family floater health insurance to a new insurer without losing continuity benefits?",
+        "Best health insurance companies in India for portability and waiting period continuity",
+        "Digit vs HDFC Ergo health insurance portability",
+        "Digit vs ICICI Lombard health insurance portability and waiting period credit",
+        "Digit vs Star Health for health insurance portability",
+        "Digit vs Niva Bupa portability for pre-existing disease waiting period",
+        "Care Health vs Digit for switching health insurance policies",
+        "Acko vs Digit health insurance portability process",
+        "Policybazaar vs Digit for porting a health insurance policy",
+        "How to choose a health insurer when porting an existing policy",
+        "Digit health insurance portability process",
+        "Digit health insurance portability documents required",
+        "Digit health insurance portability deadline before renewal",
+        "Does Digit give waiting period credit when I port health insurance from another insurer?",
+        "Can I increase sum insured while porting to Digit health insurance and keep my old waiting period credit?",
+        "How do I port my current health insurance policy to Digit?",
+        "I'm porting my existing policy to Digit—where do I upload my documents?",
+        "I started a portability request to Digit—how do I check the status?",
+        "My Digit portability request is pending near renewal—what should I do next?"
+      ]
+    }
+  ]
+}

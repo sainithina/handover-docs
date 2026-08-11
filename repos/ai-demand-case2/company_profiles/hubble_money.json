@@ -1,0 +1,179 @@
+{
+  "company_name": "Hubble Money",
+  "aliases": [
+    "Hubble",
+    "myhubble.money",
+    "Hubble rewards",
+    "Gullak Technologies"
+  ],
+  "description": "Hubble Money (operated by Gullak Technologies Pvt Ltd, Bengaluru) helps businesses launch in-app rewards and gift-card experiences fast: a modular, white-label B2B2C stack—catalogue of 500+ brand gift cards at discounted rates, no-code / low-code rewards store, SDK drop-in, and API paths for banks and corporates. Positioning: (1) B2B2C white-label infrastructure so the client’s brand and UX own the customer relationship; (2) an engagement and retention enabler embedded in the client’s product—not a standalone “engagement & retention platform” that replaces CRM or lifecycle stacks; (3) API and integration layer for voucher and gift-card issuance, redemption, and program operations, alongside optional UI modules. India-only focus. Public-facing site emphasizes launch in ~24 hours, internal currency integration, fraud prevention, analytics, and delivery via email, WhatsApp, and SMS.",
+  "industry": "Fintech / Rewards infrastructure",
+  "sub_industry": "B2B2C white-label gift-card & voucher API; engagement and retention enablement (India)",
+  "products_services": [
+    {
+      "name": "White-label rewards store & SDK",
+      "description": "Ready-to-launch, customizable rewards storefront and SDK to embed a branded gift-card catalogue inside the client app with minimal engineering lift.",
+      "key_features": [
+        "500+ brand gift cards with discounted procurement narrative (per site)",
+        "Configurable UI (templates, brand colours, logo, header)",
+        "Drop-in for apps; modular fit for different use cases",
+        "Communications: Email, WhatsApp, SMS delivery"
+      ],
+      "target_users": [
+        "Product and engineering at fintechs, banks, quick commerce, ed-tech, health/insurance"
+      ],
+      "pricing_notes": "Site positions zero-cost / fast launch framing; verify commercially."
+    },
+    {
+      "name": "Voucher & gift-card API (banks & corporates)",
+      "description": "API-oriented offering for larger programs needing programmatic control over rewards, redemptions, and scale—complementing the no-code surface.",
+      "key_features": [
+        "Programmatic voucher and gift-card flows",
+        "Suited for banks and enterprise reward programs (per site navigation)",
+        "Fraud-prevention and analytics positioning"
+      ],
+      "target_users": [
+        "Banks",
+        "Corporates",
+        "Platform teams needing API-first integration"
+      ],
+      "pricing_notes": null
+    },
+    {
+      "name": "Engagement & retention enablement",
+      "description": "Capabilities that support acquisition, activation, engagement, and retention journeys inside the client’s product—framed as growth levers (catalogue, discounts, campaigns, joint promotions), not as replacing the client’s full E&R stack.",
+      "key_features": [
+        "Internal currency integration or end-to-end in-app currency build (per site)",
+        "Campaign and distribution scale narratives (case studies on site)",
+        "Expert consultation and program growth levers"
+      ],
+      "target_users": [
+        "Growth",
+        "Lifecycle marketing",
+        "CRM / campaign owners"
+      ],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "Product / Growth Lead (B2C app or bank)",
+      "role": "Owns retention and repeat purchase KPIs",
+      "seniority": "Lead / Director",
+      "goals": [
+        "Ship a rewards store without rebuilding merchant relationships",
+        "Improve retention and repeat purchases",
+        "Keep brand-owned UX and customer data flows"
+      ],
+      "pains": [
+        "Complexity of building catalogue, redemption, and comms in-house",
+        "Need speed (same-day / next-day launch narratives)"
+      ],
+      "typical_workflow": "Configure storefront or SDK → integrate currency or CRM → run campaigns → measure engagement",
+      "constraints": ["Compliance in India", "Fraud and abuse"]
+    },
+    {
+      "name": "Engineering Lead (API / SDK path)",
+      "role": "Integrates rewards into core app or banking channels",
+      "seniority": "Lead / Staff",
+      "goals": [
+        "Reliable APIs and webhooks for issuance and redemption",
+        "Minimal bespoke work per brand in catalogue"
+      ],
+      "pains": [
+        "Fragmented gift-card integrations",
+        "Operational load of support and reconciliation"
+      ],
+      "typical_workflow": "Sandbox → SDK or API integration → fraud and analytics hooks → production",
+      "constraints": ["Security review", "Vendor diligence"]
+    },
+    {
+      "name": "Marketing / CRM Campaign Owner",
+      "role": "Runs milestone and promotional rewards",
+      "seniority": "Manager",
+      "goals": [
+        "Scale reward campaigns without platform lock-in rhetoric",
+        "Attribute lift on engagement metrics"
+      ],
+      "pains": [
+        "Tool sprawl if mis-positioned as “the” E&R platform"
+      ],
+      "typical_workflow": "Design cohorts and triggers → distribute rewards → monitor redemption and fraud signals",
+      "constraints": ["Brand guidelines", "Offer approval cycles"]
+    }
+  ],
+  "primary_geos": ["India"],
+  "primary_languages": ["en"],
+  "competitors": [
+    {
+      "name": "GyFTR",
+      "aliases": ["gyftr.com", "GyFTR"],
+      "notes": "Corporate gifting and voucher ecosystem; contrast Hubble’s B2B2C white-label + in-app rewards store / SDK + API narrative and India-only GTM."
+    },
+    {
+      "name": "Poshvine",
+      "aliases": ["PoshVine"],
+      "notes": "Rewards and engagement solutions; differentiate as embedded enabler plus gift-card/voucher rails vs full-suite positioning."
+    },
+    {
+      "name": "Qwikcilver",
+      "aliases": ["QwikCilver", "Quikcilver"],
+      "notes": "Prepaid / gift-card ecosystem player; Hubble stresses no-code speed, catalogue depth, and client-owned UX for Indian new-age businesses and banks."
+    }
+  ],
+  "differentiators": [
+    "B2B2C white-label: client brand and app own the experience; Hubble supplies catalogue, tech, and operations layer",
+    "Engagement and retention enabler (embedded in client product), not marketed as a standalone E&R platform replacement",
+    "Gift-card and voucher infrastructure with API path for banks and corporates, plus no-code / SDK for fast launch",
+    "India-only geography and India-relevant catalogue / partnerships narrative",
+    "Modular: UI customization, internal currency, fraud prevention, analytics, multi-channel delivery (per site)"
+  ],
+  "common_misconceptions": [
+    "Hubble is not positioned as a generic ‘engagement and retention platform’ that replaces CRM, CDP, or lifecycle tooling—it enables retention outcomes inside the client stack.",
+    "Primary motion is B2B2C infrastructure (white-label / API / SDK), not a consumer-only voucher marketplace as the main brand."
+  ],
+  "regulated_or_sensitive_topics": [
+    "Prepaid and voucher regulations in India",
+    "Gift-card terms, brand partnerships, and settlement",
+    "Fraud, abuse, and promotional compliance"
+  ],
+  "seed_queries": [],
+  "must_include_terms": [
+    "Hubble Money",
+    "India",
+    "B2B2C",
+    "white label",
+    "white-label",
+    "gift card",
+    "voucher",
+    "API",
+    "SDK",
+    "rewards store",
+    "engagement",
+    "retention",
+    "enabler"
+  ],
+  "must_avoid_terms": [
+    "engagement and retention platform",
+    "E&R platform",
+    "global expansion",
+    "US market",
+    "UK market"
+  ],
+  "explicit_keywords": [
+    "Hubble Money",
+    "myhubble.money",
+    "Hubble rewards store",
+    "white label gift card India",
+    "B2B2C rewards API India",
+    "gift card API for banks India",
+    "voucher API India",
+    "no code rewards platform India",
+    "in-app gift card store SDK",
+    "GyFTR vs Hubble",
+    "Poshvine alternative",
+    "Qwikcilver vs",
+    "corporate rewards India",
+    "fintech rewards catalogue"
+  ]
+}

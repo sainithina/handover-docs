@@ -1,0 +1,145 @@
+{
+  "company_name": "Digit Insurance",
+  "aliases": [
+    "Go Digit",
+    "Go Digit General Insurance",
+    "godigit.com",
+    "Digit General Insurance",
+    "Digit Life"
+  ],
+  "description": "Digit Insurance (Go Digit General Insurance Limited, godigit.com) is an IRDAI-licensed digital-first insurer in India, positioned around simple online buying, paperless journeys, and app-led servicing. General insurance spans motor (car, bike, pay-as-you-drive, electric, own damage, third party), commercial vehicles (taxi, truck, auto/e-rickshaw, tractor, JCB, etc.), health (including cashless, super top-up, Arogya Sanjeevani, family floater, senior, portability, employee/group), travel (international, Schengen, multi-trip, student), home (Bharat Griha Raksha, home loan–linked), and business lines (workmen compensation, contractors all risk, plant and machinery, marine, D&O, professional liability, and related commercial covers). Digit Life offers term (e.g. Digit Glow family), savings, pension/retirement, and group life products. The brand emphasizes trusted scale (site: 7 Crore+ Indians), super-simple claims with smartphone self-inspection, cashless garage and hospital networks, renewals, and app-only utilities (e.g. challan check, credit score, PUC, VAHAN owner details, ABHA). Corporate narrative includes transparency reports and a large POSP/partner ecosystem.",
+  "industry": "Insurance",
+  "sub_industry": "Digital general and life insurance (India)",
+  "products_services": [
+    {
+      "name": "Motor insurance",
+      "description": "Car and two-wheeler insurance including comprehensive, third party, pay-as-you-drive, electric vehicle, and own damage options.",
+      "key_features": [
+        "Car and bike flows with instant quotes",
+        "Commercial vehicle extensions (taxi, truck, auto rickshaw, e-rickshaw, tractor)",
+        "Renewal and porting narratives",
+        "Cashless garages network"
+      ],
+      "target_users": ["Private car owners", "Bike owners", "Fleet and commercial operators"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Health insurance",
+      "description": "Retail and group health with cashless hospitals, super top-up, portability, and family or senior-focused plans.",
+      "key_features": [
+        "Cashless hospital lists and wellness benefits",
+        "Super top-up and combo with term (where offered)",
+        "Employee and group medical"
+      ],
+      "target_users": ["Families", "Individuals", "Employers", "Seniors"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Travel, home, and property",
+      "description": "International and multi-trip travel, Schengen, student travel; home and shop/property covers.",
+      "key_features": [
+        "Travel destination and trip-type flows",
+        "Home insurance including Bharat Griha Raksha positioning"
+      ],
+      "target_users": ["Travelers", "Homeowners", "Small businesses"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Business and commercial insurance",
+      "description": "Workmen compensation, contractors all risk, plant and machinery, marine cargo, D&O, erection all risk, and related SME/commercial covers.",
+      "key_features": [
+        "B2B product lines alongside retail",
+        "Marine open certificate and claims journeys (site navigation)"
+      ],
+      "target_users": ["SMEs", "Contractors", "Importers/exporters"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Digit Life",
+      "description": "Life insurance arm: term (Glow, Glow Plus, Glow Lite and related), savings, guaranteed pension, and group life for corporates.",
+      "key_features": [
+        "Term calculators and sum-assured positioning",
+        "Group term and micro-term for organizations"
+      ],
+      "target_users": ["Primary earners", "HR and benefits teams"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Digit App and tools",
+      "description": "Policy download, claims filing and tracking, renewals, and free tools (challan, PUC, credit score, VAHAN, ABHA, calculators).",
+      "key_features": [
+        "Paperless claims and status tracking",
+        "Large app review footprint on Play/App Store (per site)"
+      ],
+      "target_users": ["Existing customers", "Prospects comparing insurers"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "Value-conscious motor buyer",
+      "role": "Individual vehicle owner",
+      "seniority": "Consumer",
+      "goals": ["Low premium", "Quick renewal", "Clear add-ons (zero dep, consumables)"],
+      "pains": ["Complex jargon", "Slow claims", "Hidden charges"],
+      "typical_workflow": "Compare online → buy or renew → use app for claims",
+      "constraints": ["IRDAI rules", "NCB and inspection for break in insurance"]
+    },
+    {
+      "name": "Family health buyer",
+      "role": "Household decision-maker",
+      "seniority": "Consumer",
+      "goals": ["Cashless network", "Adequate sum insured", "Portability from old insurer"],
+      "pains": ["Waiting periods", "Room rent caps", "Claim documentation"],
+      "typical_workflow": "Research hospitals → compare plans → port or buy new",
+      "constraints": ["Pre-existing disease disclosures", "Budget"]
+    },
+    {
+      "name": "SMB / commercial buyer",
+      "role": "Owner or admin",
+      "seniority": "Owner / Manager",
+      "goals": ["Compliance (WC, liability)", "Asset cover for plant and stock"],
+      "pains": ["Multiple policies", "Understanding marine and liability wordings"],
+      "typical_workflow": "Broker or direct quote → bind cover → renewals",
+      "constraints": ["Contractual insurance requirements"]
+    }
+  ],
+  "primary_geos": ["India"],
+  "primary_languages": ["en", "hi"],
+  "competitors": [
+    {"name": "Acko", "aliases": ["ACKO"], "notes": "Digital-native motor and health competitor"},
+    {"name": "ICICI Lombard", "aliases": [], "notes": "Incumbent digital + branch"},
+    {"name": "HDFC ERGO", "aliases": [], "notes": "Multi-line insurer"},
+    {"name": "Bajaj Allianz", "aliases": [], "notes": "Motor and health share"},
+    {"name": "Policybazaar", "aliases": [], "notes": "Aggregator; comparison journeys"}
+  ],
+  "differentiators": [
+    "Strong digital and app-first positioning with paperless claims and self-inspection narrative",
+    "Broad general insurance portfolio plus separate Digit Life term and savings suite",
+    "Scale messaging (7 Crore+ customers) and partner/POSP ecosystem",
+    "Utility-led acquisition: challan, PUC, credit score, VAHAN, ABHA, calculators",
+    "Transparency reports and IRDAI-regulated disclosures (Reg. No. 158)"
+  ],
+  "common_misconceptions": [
+    "Digit General and Digit Life are distinct regulated entities; site surfaces both.",
+    "Pay-as-you-drive and promotional discounts are subject to product UINs and T&C on site."
+  ],
+  "regulated_or_sensitive_topics": [
+    "IRDAI insurance regulations",
+    "Claims settlement and grievance redressal",
+    "Data privacy, NDNC, and marketing consent",
+    "Health underwriting and PED"
+  ],
+  "seed_queries": [],
+  "must_include_terms": [
+    "Digit Insurance",
+    "India",
+    "car insurance",
+    "bike insurance",
+    "health insurance"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    
+  ]
+}

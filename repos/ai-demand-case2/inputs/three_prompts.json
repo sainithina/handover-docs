@@ -1,0 +1,20 @@
+{
+  "company_name": "Digit Insurance",
+  "intents": [
+    {
+      "intent_name": "General Health Insurance & Policies",
+      "intent_id": "general_health_insurance_policies",
+      "prompts": [
+        "How do I check the premium breakdown for my Digit health insurance policy after purchase"
+      ]
+    },
+    {
+      "intent_name": "Family & Senior Coverage",
+      "intent_id": "family_and_senior_coverage",
+      "prompts": [
+        "Digit senior citizen health insurance waiting period for pre-existing diseases",
+        "best health insurance plans for senior citizens in india"
+      ]
+    }
+  ]
+}

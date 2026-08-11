@@ -1,0 +1,65 @@
+{
+  "company_name": "Gravton",
+  "description": "Gravton GEO priority prompts for fused volume estimation",
+  "intents": [
+    {
+      "intent_name": "Competitor Alternatives",
+      "intent_id": "competitor_alternatives",
+      "prompts": [
+        "profound alternatives",
+        "peec ai alternative",
+        "otterly alternative",
+        "conductor vs profound"
+      ]
+    },
+    {
+      "intent_name": "Category & Best Of",
+      "intent_id": "category_best_of",
+      "prompts": [
+        "best ai visibility tools",
+        "best geo tools 2026",
+        "aeo tools",
+        "answer engine optimization",
+        "generative engine optimization",
+        "geo vs seo"
+      ]
+    },
+    {
+      "intent_name": "Tracking & Monitoring",
+      "intent_id": "tracking_monitoring",
+      "prompts": [
+        "ai share of voice",
+        "track chatgpt citations",
+        "llm visibility tracking",
+        "ai overview tracking tool",
+        "ai brand monitoring",
+        "why is my brand not showing in chatgpt",
+        "how to track brand mentions in chatgpt",
+        "ai search volume data"
+      ]
+    },
+    {
+      "intent_name": "Vertical GEO",
+      "intent_id": "vertical_geo",
+      "prompts": [
+        "ai visibility tool for insurance",
+        "ai visibility tool for insurtech",
+        "ai search visibility for jewelry brands",
+        "ai search visibility hotels",
+        "ai search visibility hospitality geo",
+        "post-purchase ai visibility"
+      ]
+    },
+    {
+      "intent_name": "Technical & Agency",
+      "intent_id": "technical_agency",
+      "prompts": [
+        "technical geo",
+        "ai crawlability",
+        "how to choose a geo agency",
+        "chatgpt seo",
+        "rank in chatgpt"
+      ]
+    }
+  ]
+}

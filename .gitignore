@@ -5,3 +5,8 @@
 !.env.example
 *.pem
 *_passwords*.json*
+**/__pycache__/
+**/*.pyc
+**/.venv/
+**/runs/
+_zips/

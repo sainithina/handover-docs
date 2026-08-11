@@ -1,0 +1,87 @@
+{
+  "company_name": "Vieu",
+  "aliases": ["Vieu.com", "try.vieu.com"],
+  "description": "Vieu is a B2B enterprise sales platform that unlocks revenue hidden in your company's network. It maps your company's entire network, builds a deep relationship graph of every individual, and finds the warmest and fastest paths into target accounts. Vieu uses AI Graph technology to surface trusted ties from the public web—real human relationships that Sales Navigator can't show. Deals from warm intros and referrals close 3-5x faster with 25% higher ACV. Trusted by DataPelago, GoldCast, HP Enterprise, Hyperproof, Imply, Innodata, Meditopia, NetApp, Planisware, Rubrik, Seclore, Sickbay, SkyFlow, Socure, StackGen, SymphonyAI, and xflow.",
+  "industry": "B2B Sales Technology",
+  "sub_industry": "Enterprise Sales Intelligence",
+  "products_services": [
+    {
+      "name": "Network Mapping & Warm Introductions",
+      "description": "Maps company's extended network and surfaces warm intro paths to target accounts via partners, investors, customers, and employees",
+      "key_features": [
+        "AI Graph technology for relationship mapping",
+        "Warm intro path discovery",
+        "Executive-based marketing (EBM)",
+        "10x more pathways, 0.1x the noise vs Sales Navigator"
+      ],
+      "target_users": ["Sales leaders", "Account executives", "RevOps", "Enterprise GTM teams"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Vieu Graph",
+      "description": "Deep relationship graph that powers expansion, customer acquisition, partnerships, and strategic marketing",
+      "key_features": [
+        "Expansion and renewals pathways",
+        "Customer acquisition exec meetings",
+        "Partnership network activation",
+        "Hyper-targeted EBM plays"
+      ],
+      "target_users": ["B2B sales teams", "Enterprise sellers"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "Account Executive",
+      "role": "Sales representative",
+      "seniority": "Mid to senior",
+      "goals": ["Reach power at target accounts", "Land exec meetings", "Multi-thread deals"],
+      "pains": ["Stuck between stakeholder layers", "Low reply rates", "AI/spam filters killing outbound"],
+      "typical_workflow": "Outbound prospecting, account penetration, deal acceleration",
+      "constraints": ["Limited warm paths", "Cold outreach fatigue"]
+    },
+    {
+      "name": "Sales Leader",
+      "role": "VP Sales, CRO",
+      "seniority": "Executive",
+      "goals": ["Predictable pipeline", "Faster deal velocity", "Higher ACV"],
+      "pains": ["Deals stalling without exec engagement", "Outbound not scaling"],
+      "typical_workflow": "Pipeline management, team enablement, strategic account planning",
+      "constraints": []
+    }
+  ],
+  "primary_geos": ["United States"],
+  "primary_languages": ["en"],
+  "competitors": [],
+  "differentiators": [
+    "AI Graph technology for relationship discovery",
+    "Warm introductions vs cold outbound",
+    "10x more pathways than Sales Navigator",
+    "Deals close 3-5x faster with warm intros",
+    "25% higher ACV from referrals"
+  ],
+  "common_misconceptions": [],
+  "regulated_or_sensitive_topics": [],
+  "seed_queries": [],
+  "must_include_terms": [
+    "warm introduction",
+    "B2B sales",
+    "enterprise",
+    "pipeline",
+    "target accounts"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "warm introductions",
+    "B2B sales pipeline",
+    "enterprise sales",
+    "sales intelligence",
+    "relationship mapping",
+    "AI sales",
+    "target account",
+    "executive engagement",
+    "Sales Navigator alternative",
+    "GTM",
+    "revenue intelligence"
+  ]
+}

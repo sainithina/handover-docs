@@ -1,0 +1,168 @@
+{
+  "company_name": "Plum",
+  "aliases": ["Plum HQ", "Plum Insurance", "Plum Benefits"],
+  "description": "Plum is an employee health benefits and insurance platform for growing companies in India. It offers comprehensive group insurance (health, term life, personal accident), holistic care (telehealth, health checkups, mental health, wellness programs), and an admin and employee experience focused on fast, transparent claims and integrations with insurers and HRIS. Plum positions itself on best-in-class claims experience, paperless workflows, and benefits administration for startups through enterprises.",
+  "industry": "Insurtech / Employee Benefits",
+  "sub_industry": "Group Health Insurance & Corporate Benefits Platform (India)",
+  "products_services": [
+    {
+      "name": "Employee insurance (group)",
+      "description": "Group health, term life, and personal accident coverage for teams with endorsements for family members.",
+      "key_features": [
+        "Group health insurance",
+        "Group term life insurance",
+        "Group personal accident insurance",
+        "Coverage for parents, spouses, children, LGBTQ+ partners, and in-laws",
+        "Cashless network and reimbursement claims",
+        "24/7 helpline and paperless claims"
+      ],
+      "target_users": ["HR teams", "People ops", "Founders", "Finance"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Healthcare for teams",
+      "description": "Programs beyond core insurance: preventive care, primary care, and crisis support.",
+      "key_features": [
+        "Care programs",
+        "Telehealth",
+        "Health checkups",
+        "Mental health support"
+      ],
+      "target_users": ["Employees", "People teams"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Personal insurance",
+      "description": "Retail health and life products for individuals.",
+      "key_features": [
+        "Personal health insurance",
+        "Personal term life insurance",
+        "Super top-up"
+      ],
+      "target_users": ["Individuals", "Employees buying personal cover"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Business insurance",
+      "description": "Commercial lines for companies (not employee benefits).",
+      "key_features": [
+        "Directors and officers insurance",
+        "Errors and omissions insurance",
+        "Employee dishonesty insurance",
+        "Commercial general liability",
+        "Cyber insurance",
+        "Asset insurance"
+      ],
+      "target_users": ["Finance", "Risk", "Leadership"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Plum platform (admin & employee)",
+      "description": "Software for enrolling lives, managing benefits, tracking claims, and analytics.",
+      "key_features": [
+        "Benefits management and endorsements",
+        "Claims analytics and real-time tracking",
+        "Budgeting and finance-friendly reporting",
+        "Integrations with insurers and HRIS",
+        "Employee app for benefits, tele-consults, and perks"
+      ],
+      "target_users": ["HR admins", "Employees", "CFOs"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "HR / People leader",
+      "role": "Head of People, HRBP, or People Ops",
+      "seniority": "Manager to CHRO",
+      "goals": [
+        "Offer competitive benefits",
+        "Smooth onboarding and endorsements",
+        "Fewer claims headaches and faster resolution"
+      ],
+      "pains": [
+        "Complex insurance jargon",
+        "Slow reimbursements",
+        "Poor employee experience with legacy brokers"
+      ],
+      "typical_workflow": "Benchmark plans, enroll employees, manage endorsements, track claims",
+      "constraints": ["Budget", "Compliance", "Employee expectations"]
+    },
+    {
+      "name": "Startup founder",
+      "role": "Founder / CEO at a growing company",
+      "seniority": "Founder",
+      "goals": [
+        "Simple setup",
+        "Modern employee experience",
+        "Scalable benefits as headcount grows"
+      ],
+      "pains": [
+        "Limited HR bandwidth",
+        "Need to compete for talent"
+      ],
+      "typical_workflow": "Select plan, onboard team, iterate on coverage",
+      "constraints": ["Runway", "Team size"]
+    },
+    {
+      "name": "Employee",
+      "role": "Individual insured member",
+      "seniority": null,
+      "goals": [
+        "Understand coverage",
+        "File and track claims quickly",
+        "Access telehealth and wellness perks"
+      ],
+      "pains": [
+        "Opaque claims status",
+        "Paperwork"
+      ],
+      "typical_workflow": "Use app for policy details, claims, teleconsult, perks",
+      "constraints": []
+    }
+  ],
+  "primary_geos": ["India"],
+  "primary_languages": ["en"],
+  "competitors": [
+    {"name": "Pazcare", "aliases": [], "notes": "Employee benefits & insurance platform"},
+    {"name": "Nova Benefits", "aliases": [], "notes": "Corporate health & benefits"},
+    {"name": "SecureNow", "aliases": [], "notes": "SMB insurance marketplace"},
+    {"name": "ACKO", "aliases": [], "notes": "Digital insurer with group products"}
+  ],
+  "differentiators": [
+    "Claims experience and speed (cashless and reimbursement)",
+    "Full-stack employee benefits: insurance + care + platform",
+    "HRIS and insurer integrations",
+    "Solutions tailored for startups, SMBs, and enterprises",
+    "Insurtech recognition and large customer base in India"
+  ],
+  "common_misconceptions": [
+    "Plum is sometimes confused with unrelated 'Plum' brands; context is Indian employee insurance."
+  ],
+  "regulated_or_sensitive_topics": [
+    "Insurance",
+    "IRDAI",
+    "Health data",
+    "Claims",
+    "Underwriting"
+  ],
+  "seed_queries": [],
+  "must_include_terms": [
+    "Plum",
+    "employee insurance",
+    "group health insurance"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "Plum",
+    "Plum HQ",
+    "Plum insurance",
+    "Plum employee benefits",
+    "group health insurance India",
+    "Plum telehealth",
+    "Plum claims",
+    "employee health insurance",
+    "corporate health insurance",
+    "Plum app"
+  ]
+}

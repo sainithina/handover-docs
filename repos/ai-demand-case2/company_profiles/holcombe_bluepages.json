@@ -1,0 +1,137 @@
+{
+  "company_name": "BluePages (Holcombe Financial)",
+  "aliases": [
+    "BluePages",
+    "Holcombe Financial",
+    "Holcombe Financial BluePages",
+    "mybluepages"
+  ],
+  "description": "BluePages is a deferred compensation planning service and proprietary software from Holcombe Financial, a fee-only advisory firm in Atlanta, GA. It connects high earners to specialist-led strategy for non-qualified deferred compensation (NQDC) and related executive compensation—focused on tax-efficient elections, timing, and payout strategies rather than generic wealth advice. The offering combines document-based analysis (pay stub, tax return, prior elections), AI-assisted tax analysis for deferral and timing scenarios, expert review calls, and a personalized deferral playbook. Founder Rusty Holcombe leads the strategy; the brand emphasizes clarity over jargon and outcomes such as six-figure tax savings through smarter elections (e.g., avoiding lump-sum pitfalls, phased payouts). Holcombe Financial also serves entrepreneurs, corporate executives, and FIRE-minded clients with a broader 'Point of Independence' planning philosophy.",
+  "industry": "Wealth Management / Financial Advisory",
+  "sub_industry": "Executive Deferred Compensation & High-Earner Tax Strategy",
+  "products_services": [
+    {
+      "name": "BluePages Deferred Compensation Strategy",
+      "description": "End-to-end deferred comp optimization: encrypted intake of pay stub, tax return, and prior elections; scenario modeling and recommendations.",
+      "key_features": [
+        "Specialist focus on deferred compensation (vs. generalist advisors)",
+        "AI-powered tax analysis for deferral amounts and timing",
+        "Scenario review call with side-by-side tax and cash-flow projections",
+        "Personal written playbook for elections and payouts",
+        "Typical turnaround noted as 3–4 days for full analysis"
+      ],
+      "target_users": [
+        "High-income corporate executives",
+        "Employees with complex equity, bonus, and NQDC plans",
+        "Open enrollment decision-makers"
+      ],
+      "pricing_notes": "Public tiers include One-Time Strategy Session + Deferral Playbook (pricing varies by season, e.g. $5,000 during open enrollment and $2,500 off-season, per site) and Executive Concierge ongoing support (e.g. $12,500/year cited on marketing pages)."
+    },
+    {
+      "name": "Holcombe Financial Advisory",
+      "description": "Fee-only financial planning and investment management for entrepreneurs, corporate professionals, and FIRE-oriented clients, centered on sustainable cash flow and independence.",
+      "key_features": [
+        "Investment philosophy oriented to replacing monthly paycheck with portfolio income",
+        "Services: investment management, estate, tax, liability, cash flow, retirement planning",
+        "Team-based specialist support"
+      ],
+      "target_users": ["Entrepreneurs", "Fortune 500 and corporate professionals", "FIRE savers"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "Corporate Executive (Deferred Comp)",
+      "role": "High earner with NQDC, bonus, and equity",
+      "seniority": "Director to C-suite",
+      "goals": [
+        "Maximize after-tax wealth from comp",
+        "Avoid costly election mistakes",
+        "Align deferrals and payouts with retirement or exit plans"
+      ],
+      "pains": [
+        "Complex plan rules and enrollment windows",
+        "Tax traps on lump sums and timing",
+        "Generalist advisors who avoid deferred comp"
+      ],
+      "typical_workflow": "Gather pay and tax docs → analysis + scenarios → elections during open enrollment → ongoing review for equity or retirement transitions",
+      "constraints": ["Plan-specific rules", "IRS/tax law", "Employer blackout or enrollment periods"]
+    },
+    {
+      "name": "Wealth Seeking Independence (Holcombe client)",
+      "role": "Professional or entrepreneur building toward financial independence",
+      "seniority": "Varies",
+      "goals": [
+        "Reach 'Point of Independence' where investments fund lifestyle",
+        "Consistent cash flow in retirement"
+      ],
+      "pains": [
+        "Complexity of integrating tax, investments, and estate",
+        "Uncertainty about sufficiency of assets"
+      ],
+      "typical_workflow": "Holcombe planning process → portfolio and tax coordination → long-term monitoring",
+      "constraints": ["Risk tolerance", "Market volatility"]
+    }
+  ],
+  "primary_geos": ["United States", "Atlanta metro (firm HQ: Sandy Springs, GA area)"],
+  "primary_languages": ["en"],
+  "competitors": [
+    {
+      "name": "Large wirehouse wealth management",
+      "aliases": ["Merrill", "Morgan Stanley Wealth"],
+      "notes": "Broad advisory; often less specialized on NQDC-only depth"
+    },
+    {
+      "name": "Executive-focused RIA firms",
+      "aliases": [],
+      "notes": "Regional and national RIAs competing for high-earner and equity comp planning"
+    },
+    {
+      "name": "Tax-focused financial planners",
+      "aliases": [],
+      "notes": "CPA/EA-led planning shops that emphasize tax integration"
+    }
+  ],
+  "differentiators": [
+    "Explicit specialization in deferred compensation vs. general wealth advice",
+    "Proprietary BluePages software and structured playbook delivery",
+    "Fee-only Holcombe brand alignment and founder-led positioning (Rusty Holcombe)",
+    "AI-assisted analysis marketed as part of the tax/deferral workflow",
+    "Document-light intake (encrypted scan vs. manual spreadsheets)"
+  ],
+  "common_misconceptions": [
+    "That any financial advisor is equally skilled at NQDC elections",
+    "That lump-sum payout options are always optimal"
+  ],
+  "regulated_or_sensitive_topics": [
+    "Investment advice",
+    "Tax planning",
+    "Securities and suitability",
+    "Personal financial and compensation data privacy"
+  ],
+  "seed_queries": [],
+  "must_include_terms": [
+    "deferred compensation",
+    "Holcombe Financial",
+    "BluePages"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "BluePages",
+    "Holcombe Financial",
+    "deferred comp",
+    "NQDC",
+    "executive compensation",
+    "open enrollment",
+    "deferral strategy",
+    "tax-efficient deferral",
+    "high earner",
+    "fee-only advisor Atlanta",
+    "Rusty Holcombe",
+    "Point of Independence",
+    "Holcombe Financial Atlanta",
+    "deferred comp specialist",
+    "holcombefinancial.com",
+    "mybluepages"
+  ]
+}

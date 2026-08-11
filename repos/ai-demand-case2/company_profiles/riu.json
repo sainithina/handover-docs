@@ -1,0 +1,159 @@
+{
+  "company_name": "RIU.ai",
+  "aliases": ["RIU", "RIU Sense", "RIU.ai ESG"],
+  "description": "RIU.ai is an AI-driven ESG and carbon accounting platform that automates sustainability data, streamlines compliance, scales decarbonization, and accelerates strategic decision-making. The platform centralizes scattered ESG data into a single source of truth, provides analytics, benchmarking, and reduction insights, and automates reporting. Features include real-time ESG analytics, audit-ready carbon accounting, built-in AI chatbot (RIU Sense), and supplier risk intelligence. Supports global frameworks: BRSR, GRI, SASB, TCFD, CSRD, ISSB, GHG Protocol, UN SDGs, ISO 14064, CDP, and SBTi-aligned net-zero targets. Trusted by industry leaders including Kennametal and Time Technoplast.",
+  "industry": "Sustainability / ESG Technology",
+  "sub_industry": "AI-Driven Carbon Accounting & ESG Platform",
+  "products_services": [
+    {
+      "name": "ESG Data Platform",
+      "description": "Unified intelligence layer that ingests scattered ESG data and centralizes it into a single source of truth with 100% traceable, audit-ready data trails.",
+      "key_features": [
+        "Real-time ESG analytics",
+        "Audit-ready carbon accounting",
+        "10x faster from raw data to disclosure reports",
+        "Connects with ERP, IoT, and APIs",
+        "Live data processing"
+      ],
+      "target_users": ["Sustainability teams", "CFOs", "Compliance officers", "Enterprise ESG leads"],
+      "pricing_notes": null
+    },
+    {
+      "name": "RIU Sense",
+      "description": "Built-in AI chatbot for sustainability intelligence and insights.",
+      "key_features": [
+        "AI-powered ESG insights",
+        "Anomaly detection (e.g., emission anomalies)",
+        "Supplier risk intelligence"
+      ],
+      "target_users": ["Sustainability analysts", "Operations teams"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Carbon Accounting",
+      "description": "Scope 1, 2 & 3 emissions tracking with GHG Protocol compliance and SBTi-aligned net-zero targets.",
+      "key_features": [
+        "Scope 1, 2, 3 emissions",
+        "ISO 14064 carbon accounting",
+        "CDP reporting",
+        "Net-zero and SBTi alignment"
+      ],
+      "target_users": ["Manufacturing", "Real estate", "BFSI", "Automotive"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Compliance & Reporting",
+      "description": "Automated reporting for BRSR (India/SEBI), GRI, SASB, TCFD, CSRD, ISSB, and UN SDGs.",
+      "key_features": [
+        "BRSR (India SEBI)",
+        "GRI, SASB, TCFD",
+        "CSRD (EU)",
+        "ISSB standards"
+      ],
+      "target_users": ["Listed companies", "EU-regulated firms", "Global enterprises"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Industry Solutions",
+      "description": "Purpose-built solutions for Manufacturing, Real Estate, Healthcare, BFSI, Automotive, and Carbon Credit Monetization.",
+      "key_features": [
+        "Manufacturing: Scope 1 & 2 tracking, supply chain Scope 3",
+        "Energy intensity monitoring",
+        "Waste & water management",
+        "Supply chain audit trails"
+      ],
+      "target_users": ["Manufacturing", "Real estate", "Healthcare", "BFSI", "Automotive"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "Sustainability Director",
+      "role": "Enterprise sustainability lead",
+      "seniority": "Director/VP",
+      "goals": [
+        "Centralize ESG data",
+        "Streamline compliance",
+        "Achieve net-zero targets"
+      ],
+      "pains": [
+        "ESG data in silos and spreadsheets",
+        "80% data stuck in PDFs & Excel",
+        "Disconnected workflows",
+        "Audit nightmares"
+      ],
+      "typical_workflow": "Collect data from ERP/IoT, run analytics, generate disclosure reports",
+      "constraints": ["Compliance deadlines", "Data quality"]
+    },
+    {
+      "name": "CFO / Finance Lead",
+      "role": "Financial decision-maker",
+      "seniority": "C-suite",
+      "goals": [
+        "Audit-ready carbon accounting",
+        "Cost of carbon visibility",
+        "Strategic decarbonization"
+      ],
+      "pains": [
+        "Manual data collection",
+        "Compliance risks from disconnected systems"
+      ],
+      "typical_workflow": "Review emissions, approve disclosures, track net-zero progress",
+      "constraints": []
+    },
+    {
+      "name": "Manufacturing Operations",
+      "role": "Factory / supply chain lead",
+      "seniority": "Manager",
+      "goals": [
+        "Track Scope 1 & 2 in real-time",
+        "Optimize energy usage",
+        "Manage Scope 3 supply chain data"
+      ],
+      "pains": [
+        "Manual energy and waste tracking",
+        "Supply chain data gaps"
+      ],
+      "typical_workflow": "Monitor emissions, manage waste/water, feed data to platform",
+      "constraints": []
+    }
+  ],
+  "primary_geos": ["India", "Global"],
+  "primary_languages": ["en"],
+  "competitors": [
+    {"name": "Watershed", "aliases": [], "notes": "Carbon accounting platform"},
+    {"name": "Persefoni", "aliases": [], "notes": "Climate management & accounting"},
+    {"name": "Sweep", "aliases": [], "notes": "Carbon tracking"},
+    {"name": "Plan A", "aliases": [], "notes": "ESG & carbon management"},
+    {"name": "Greenomy", "aliases": [], "notes": "ESG reporting"}
+  ],
+  "differentiators": [
+    "AI-driven ESG platform with RIU Sense chatbot",
+    "100% traceable, audit-ready data trails",
+    "10x faster from raw data to disclosure",
+    "Real-time sync with ERP, IoT, APIs",
+    "BRSR and India SEBI compliance",
+    "Global framework support (GRI, SASB, TCFD, CSRD, ISSB)"
+  ],
+  "common_misconceptions": [],
+  "regulated_or_sensitive_topics": ["ESG", "Carbon emissions", "Sustainability reporting"],
+  "seed_queries": [],
+  "must_include_terms": [
+    "ESG",
+    "carbon",
+    "sustainability"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "RIU.ai",
+    "RIU Sense",
+    "ESG platform",
+    "carbon accounting",
+    "net-zero platform",
+    "BRSR compliance",
+    "GHG emissions",
+    "Scope 1 2 3",
+    "sustainability reporting",
+    "AI ESG"
+  ]
+}

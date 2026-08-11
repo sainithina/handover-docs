@@ -1,0 +1,123 @@
+{
+  "company_name": "PMU Professional Supplies",
+  "intents": [
+    {
+      "intent_id": "machine_brands",
+      "intent_name": "Machine Brands",
+      "prompts": ["Microbeau Xion S alternatives"]
+    },
+    {
+      "intent_id": "mapping_tools",
+      "intent_name": "Mapping Tools",
+      "prompts": ["brow mapping string and tools"]
+    },
+    {
+      "intent_id": "pigment_brands",
+      "intent_name": "Pigment Brands",
+      "prompts": [
+        "best cosmetic tattoo ink brands",
+        "Girlz Ink vs Li Pigments",
+        "Nouveau Contour vs Perma Blend",
+        "Perma Blend vs Li Pigments"
+      ]
+    },
+    {
+      "intent_id": "pigment_selection",
+      "intent_name": "Pigment Selection",
+      "prompts": [
+        "best permanent makeup pigments",
+        "eyebrow tattoo ink sets",
+        "perma blend alternatives"
+      ]
+    },
+    {
+      "intent_id": "pigment_sets",
+      "intent_name": "Pigment Sets",
+      "prompts": ["lip blush pigment sets for professionals"]
+    },
+    {
+      "intent_id": "pigment_types",
+      "intent_name": "Pigment Types",
+      "prompts": ["organic vs inorganic pmu pigments"]
+    },
+    {
+      "intent_id": "pmu_cartridges",
+      "intent_name": "PMU Cartridges",
+      "prompts": ["membrane pmu cartridges"]
+    },
+    {
+      "intent_id": "pmu_machines",
+      "intent_name": "PMU Machines",
+      "prompts": [
+        "pmu machine for ombre powder brows",
+        "wireless pmu machine for lip blush"
+      ]
+    },
+    {
+      "intent_id": "pmu_numbing",
+      "intent_name": "PMU Numbing",
+      "prompts": [
+        "anesthetic gel for lip blush and eyeliner",
+        "lidocaine numbing spray for permanent makeup",
+        "maximum strength pmu topical anesthetic",
+        "professional pmu numbing cream",
+        "secondary numbing for broken skin microblading",
+        "Zensa numbing cream alternatives for tattooing"
+      ]
+    },
+    {
+      "intent_id": "pmu_pigment_brands",
+      "intent_name": "PMU Pigment Brands",
+      "prompts": [
+        "best pmu pigments for ombre brows",
+        "EU REACH compliant pmu pigments",
+        "hybrid permanent makeup pigment brands",
+        "medical grade permanent makeup ink",
+        "Perma Blend vs Brow Daddy pigments",
+        "professional permanent makeup ink manufacturers"
+      ]
+    },
+    {
+      "intent_id": "pmu_pigments",
+      "intent_name": "PMU Pigments",
+      "prompts": [
+        "Brow Daddy Gold Collection alternatives",
+        "high retention microblading pigments",
+        "Perma Blend vs Girlz Ink",
+        "permanent makeup ink for dark skin",
+        "permanent makeup ink for eyeliner",
+        "pigment color correction chart for pmu",
+        "pigment diluent for permanent makeup"
+      ]
+    },
+    {
+      "intent_id": "pmu_tools",
+      "intent_name": "PMU Tools",
+      "prompts": ["disposable microblading pens bulk"]
+    },
+    {
+      "intent_id": "professional_pmu_tools",
+      "intent_name": "Professional PMU Tools",
+      "prompts": [
+        "microblading supplies for professionals",
+        "pmu cartridge needles"
+      ]
+    },
+    {
+      "intent_id": "training_kits",
+      "intent_name": "Training Kits",
+      "prompts": [
+        "lip blush training kits for beginners",
+        "microblading tool kits for students"
+      ]
+    },
+    {
+      "intent_id": "wholesale_pmu_supplies",
+      "intent_name": "Wholesale PMU Supplies",
+      "prompts": [
+        "microblading practice skins wholesale",
+        "permanent makeup supplies wholesale"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "company_name": "Vegan Richa",
+  "aliases": ["Vegan Richa's", "veganricha.com"],
+  "description": "Vegan Richa is a popular food blog and cookbook brand offering wildly flavorful and inventive plant-based recipes inspired by Indian cuisine. Founded by Richa, it features recipes that are gluten-free, soy-free, nut-free, and oil-free options. The blog covers Indian vegan recipes, Instant Pot meals, breakfast, lunch, dinner, desserts, holiday recipes, and more. Vegan Richa has published three cookbooks: Vegan Richa's Instant Pot Cookbook (150 recipes from Indian cuisine and beyond), Vegan Richa's Indian Kitchen (often named Best Vegan Indian Cookbook), and Vegan Richa's Everyday Kitchen (easy meals, sauces, curries, stews, burgers, pizzas, casseroles, cakes). The site includes recipe videos, Indian pantry resources, dal/lentil guides, and vegan substitution resources.",
+  "industry": "Food & Recipe Media",
+  "sub_industry": "Vegan / Plant-Based Recipes",
+  "products_services": [
+    {
+      "name": "Vegan Richa Food Blog",
+      "description": "Free recipe content, how-tos, and resources for plant-based cooking",
+      "key_features": [
+        "Indian-inspired vegan recipes",
+        "Gluten-free, soy-free, nut-free options",
+        "Instant Pot recipes",
+        "Recipe filters and categories",
+        "Videos and tutorials"
+      ],
+      "target_users": ["Home cooks", "Vegans", "Vegetarians", "People exploring plant-based"],
+      "pricing_notes": "Free with email subscription"
+    },
+    {
+      "name": "Vegan Richa's Instant Pot Cookbook",
+      "description": "150 recipes: half Indian regional recipes, half vegan Instant Pot across cuisines",
+      "key_features": [
+        "Curries to crunchwraps, pastas to cakes",
+        "Print and digital versions",
+        "Indian and global recipes"
+      ],
+      "target_users": ["Instant Pot owners", "Vegan home cooks"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Vegan Richa's Indian Kitchen",
+      "description": "Plant-based Indian cookbook: dals, curries, veggies, regional dishes",
+      "key_features": [
+        "Often named Best Vegan Indian Cookbook",
+        "Print and Kindle",
+        "Comprehensive Indian vegan repertoire"
+      ],
+      "target_users": ["Indian food lovers", "Vegans", "Home cooks"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Vegan Richa's Everyday Kitchen",
+      "description": "Everyday meals: sauces, curries, stews, burgers, pizzas, casseroles, cakes",
+      "key_features": [
+        "Wholesome, delicious, fun to make",
+        "Multiple cuisines",
+        "Easy everyday meals"
+      ],
+      "target_users": ["Busy home cooks", "Vegans"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "Vegan Home Cook",
+      "role": "Home cook",
+      "seniority": null,
+      "goals": [
+        "Make flavorful plant-based meals",
+        "Find Indian vegan recipes",
+        "Cook gluten-free, soy-free options"
+      ],
+      "pains": [
+        "Limited vegan Indian recipes",
+        "Recipes that don't taste good",
+        "Finding allergy-friendly options"
+      ],
+      "typical_workflow": "Search recipes, follow blog, try new dishes",
+      "constraints": ["Dietary restrictions", "Time", "Ingredient availability"]
+    },
+    {
+      "name": "Instant Pot Enthusiast",
+      "role": "Home cook",
+      "seniority": null,
+      "goals": [
+        "Quick vegan meals",
+        "One-pot recipes",
+        "Indian curries in Instant Pot"
+      ],
+      "pains": ["Few vegan Instant Pot resources", "Complex recipes"],
+      "typical_workflow": "Browse Instant Pot category, cook from blog or cookbook",
+      "constraints": []
+    }
+  ],
+  "primary_geos": ["United States", "India", "Global"],
+  "primary_languages": ["en"],
+  "competitors": [],
+  "differentiators": [
+    "Indian-inspired vegan recipes",
+    "Gluten-free, soy-free, nut-free, oil-free options",
+    "Best Vegan Indian Cookbook recognition",
+    "Instant Pot + Indian cuisine focus",
+    "Free blog + paid cookbooks",
+    "Recipe videos and resources"
+  ],
+  "common_misconceptions": [],
+  "regulated_or_sensitive_topics": [],
+  "seed_queries": [],
+  "must_include_terms": [
+    "vegan",
+    "plant based",
+    "recipe",
+    "Indian"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "vegan Indian recipes",
+    "Vegan Richa",
+    "plant based Indian food",
+    "vegan Instant Pot",
+    "vegan dal",
+    "vegan curry",
+    "gluten free vegan",
+    "soy free vegan",
+    "vegan cookbook",
+    "Indian vegan",
+    "vegan Richa recipes",
+    "vegan Indian cookbook"
+  ]
+}

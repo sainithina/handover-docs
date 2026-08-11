@@ -1,0 +1,288 @@
+{
+  "groups": [
+    {
+      "group_name": "Portability & Transfer",
+      "keywords": [
+        {
+          "keyword": "health insurance portability",
+          "a_mean_volume": 607.78
+        },
+        {
+          "keyword": "how to port health insurance",
+          "a_mean_volume": 1458.35
+        },
+        {
+          "keyword": "port health insurance",
+          "a_mean_volume": 673.57
+        },
+        {
+          "keyword": "waiting period in health insurance",
+          "a_mean_volume": 1443.12
+        }
+      ]
+    },
+    {
+      "group_name": "OPD Coverage",
+      "keywords": [
+        {
+          "keyword": "health insurance with opd cover",
+          "a_mean_volume": 257.54
+        },
+        {
+          "keyword": "health insurance with opd",
+          "a_mean_volume": 495.35
+        }
+      ]
+    },
+    {
+      "group_name": "Top-Up Plans",
+      "keywords": [
+        {
+          "keyword": "super top up plan",
+          "a_mean_volume": 356.08
+        },
+        {
+          "keyword": "best super top up health insurance",
+          "a_mean_volume": 3314.02
+        },
+        {
+          "keyword": "super top up policy",
+          "a_mean_volume": 49.69
+        },
+        {
+          "keyword": "health insurance top up plan",
+          "a_mean_volume": 3424.83
+        },
+        {
+          "keyword": "super top up",
+          "a_mean_volume": 2035.27
+        }
+      ]
+    },
+    {
+      "group_name": "Group / Employer Health Insurance",
+      "keywords": [
+        {
+          "keyword": "group health insurance for employees",
+          "a_mean_volume": 2833.22
+        },
+        {
+          "keyword": "group insurance for employees",
+          "a_mean_volume": 4683.8
+        },
+        {
+          "keyword": "group mediclaim insurance policy for employees",
+          "a_mean_volume": 63.97
+        },
+        {
+          "keyword": "group health insurance",
+          "a_mean_volume": 3566.86
+        },
+        {
+          "keyword": "group health insurance policy",
+          "a_mean_volume": 3301.28
+        },
+        {
+          "keyword": "group medical insurance",
+          "a_mean_volume": 7306.39
+        },
+        {
+          "keyword": "group insurance policy for employees",
+          "a_mean_volume": 3821.56
+        },
+        {
+          "keyword": "group mediclaim policy for employees",
+          "a_mean_volume": 7.62
+        },
+        {
+          "keyword": "corporate health insurance",
+          "a_mean_volume": 704.3
+        }
+      ]
+    },
+    {
+      "group_name": "Family & Senior Coverage",
+      "keywords": [
+        {
+          "keyword": "family health insurance plans",
+          "a_mean_volume": 3159.92
+        },
+        {
+          "keyword": "health insurance for parents",
+          "a_mean_volume": 3071.89
+        },
+        {
+          "keyword": "parents health insurance tax benefit",
+          "a_mean_volume": 3098.98
+        },
+        {
+          "keyword": "medical insurance for parents",
+          "a_mean_volume": 2284.08
+        },
+        {
+          "keyword": "health insurance plans for senior citizens",
+          "a_mean_volume": 2895.82
+        },
+        {
+          "keyword": "health insurance for senior citizens",
+          "a_mean_volume": 2494.2
+        },
+        {
+          "keyword": "medical insurance for senior citizens",
+          "a_mean_volume": 1707.82
+        },
+        {
+          "keyword": "mediclaim for family",
+          "a_mean_volume": 9.84
+        },
+        {
+          "keyword": "mediclaim for senior citizens",
+          "a_mean_volume": 215.46
+        }
+      ]
+    },
+    {
+      "group_name": "General Health Insurance & Policies",
+      "keywords": [
+        {
+          "keyword": "health insurance",
+          "a_mean_volume": 247843.6
+        },
+        {
+          "keyword": "individual health insurance",
+          "a_mean_volume": 2175.16
+        },
+        {
+          "keyword": "types of health insurance",
+          "a_mean_volume": 15817.85
+        },
+        {
+          "keyword": "arogya sanjeevani policy",
+          "a_mean_volume": 1.2
+        },
+        {
+          "keyword": "health insurance in india",
+          "a_mean_volume": 1337.59
+        },
+        {
+          "keyword": "health insurance policy",
+          "a_mean_volume": 50449.93
+        },
+        {
+          "keyword": "health insurance policy in india",
+          "a_mean_volume": 811.24
+        },
+        {
+          "keyword": "health policy",
+          "a_mean_volume": 3550.28
+        },
+        {
+          "keyword": "health insurance plans",
+          "a_mean_volume": 22701.96
+        },
+        {
+          "keyword": "health insurance plans in india",
+          "a_mean_volume": 761.69
+        },
+        {
+          "keyword": "best health insurance policy in india",
+          "a_mean_volume": 3881.64
+        },
+        {
+          "keyword": "best health insurance plans in india",
+          "a_mean_volume": 1707.67
+        },
+        {
+          "keyword": "medical insurance",
+          "a_mean_volume": 26159.07
+        },
+        {
+          "keyword": "medical insurance india",
+          "a_mean_volume": 781.67
+        },
+        {
+          "keyword": "medical insurance online",
+          "a_mean_volume": 6066.24
+        },
+        {
+          "keyword": "medical health insurance",
+          "a_mean_volume": 26507.77
+        },
+        {
+          "keyword": "medical insurance plans",
+          "a_mean_volume": 8329.75
+        },
+        {
+          "keyword": "medical insurance policy",
+          "a_mean_volume": 12251.53
+        },
+        {
+          "keyword": "mediclaim policy",
+          "a_mean_volume": 25.87
+        },
+        {
+          "keyword": "mediclaim insurance",
+          "a_mean_volume": 5.25
+        },
+        {
+          "keyword": "critical illness policy",
+          "a_mean_volume": 1453.96
+        },
+        {
+          "keyword": "benefits of health insurance",
+          "a_mean_volume": 6837.05
+        }
+      ]
+    },
+    {
+      "group_name": "Online Purchasing & Quotes",
+      "keywords": [
+        {
+          "keyword": "buy health insurance online",
+          "a_mean_volume": 3745.83
+        },
+        {
+          "keyword": "online health insurance",
+          "a_mean_volume": 1669.16
+        },
+        {
+          "keyword": "buy health insurance",
+          "a_mean_volume": 4085.72
+        },
+        {
+          "keyword": "health insurance quotes",
+          "a_mean_volume": 3669.87
+        },
+        {
+          "keyword": "health insurance premium calculator",
+          "a_mean_volume": 969.44
+        },
+        {
+          "keyword": "health insurance premium",
+          "a_mean_volume": 5376.89
+        },
+        {
+          "keyword": "health insurance calculator",
+          "a_mean_volume": 1425.36
+        }
+      ]
+    },
+    {
+      "group_name": "Personal Accident Insurance",
+      "keywords": [
+        {
+          "keyword": "best accidental insurance plan",
+          "a_mean_volume": 341.52
+        },
+        {
+          "keyword": "group personal accident insurance",
+          "a_mean_volume": 429.88
+        },
+        {
+          "keyword": "personal accident policy",
+          "a_mean_volume": 337.57
+        }
+      ]
+    }
+  ]
+}

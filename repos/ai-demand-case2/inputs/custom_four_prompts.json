@@ -1,0 +1,33 @@
+{
+  "company_name": "Digit Insurance",
+  "intents": [
+    {
+      "intent_name": "Personal Accident Coverage",
+      "intent_id": "personal_accident_coverage",
+      "prompts": [
+        "How much personal accident cover should I buy if my family depends on my income?"
+      ]
+    },
+    {
+      "intent_name": "Tax Benefits for Parent Premiums",
+      "intent_id": "tax_benefits_parent_premiums",
+      "prompts": [
+        "Can I get tax benefits if I pay health insurance premiums for my parents, and how does that usually work?"
+      ]
+    },
+    {
+      "intent_name": "Claim Experience & Policy Choice",
+      "intent_id": "claim_experience_policy_choice",
+      "prompts": [
+        "What's the best health insurance policy in India if I want fewer surprises at claim time?"
+      ]
+    },
+    {
+      "intent_name": "Family Cover with Senior Parents",
+      "intent_id": "family_cover_senior_parents",
+      "prompts": [
+        "How much health insurance cover is usually enough for a family with senior citizen parents in India?"
+      ]
+    }
+  ]
+}

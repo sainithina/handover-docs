@@ -1,0 +1,142 @@
+{
+  "company_name": "Kapture CX",
+  "aliases": [
+    "Kapture",
+    "kapture.cx",
+    "Kapture CX platform"
+  ],
+  "description": "Kapture CX is an enterprise AI-powered customer experience platform built around agentic AI: voice and non-voice AI agents, observability, and human–AI orchestration for end-to-end support automation. The stack spans self-serve resolution (inbound/outbound voice agents, email/WhatsApp/social automation, real-time monitoring and intervention), an agent suite (advanced ticketing, Customer 360, routing and SLAs, copilot-style assistance for agents, no-code Vitos AI Agent Platform), insights (AI-driven quality audits on 100% of interactions, conversational intelligence, GenAI surveys and feedback), and employee experience (internal service desk, workspaces, AI agents for HR/IT). Positioning highlights training on 1B+ minutes of real conversations, 1000+ enterprise customers, and vertical plays across BFSI, retail and q-commerce, travel, digital-native brands, energy and utilities, and consumer durables. Site compares against Zendesk, Salesforce Service Cloud, and Freshdesk; offers API documentation, integrations hub, and trust/security narrative.",
+  "industry": "Customer experience / Enterprise software",
+  "sub_industry": "AI contact center, ticketing, and conversational CX platform",
+  "products_services": [
+    {
+      "name": "Self-Serve & AI agents",
+      "description": "Autonomous and semi-autonomous resolution across voice and digital channels with observability and escalation.",
+      "key_features": [
+        "Low-latency voice AI agents for inbound and outbound",
+        "Non-voice AI agents for email, WhatsApp, Instagram, Facebook, and more",
+        "Observability platform for tracing, live monitoring, and human takeover",
+        "High auto-resolution positioning (e.g. 90% queries narrative on site)"
+      ],
+      "target_users": ["CX leaders", "Contact center ops", "Digital support teams"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Agent Suite",
+      "description": "Unified agent desktop with AI augmentation, ticketing, and workflow automation.",
+      "key_features": [
+        "Advanced ticketing: classification, deduplication, intent and SLA-based routing",
+        "AI agents for support teams: summaries, next-best action, knowledge assist",
+        "Reports and analytics with granular interaction data",
+        "Vitos: design and deploy AI agents without code"
+      ],
+      "target_users": ["Support agents", "Team leads", "WFM and QA"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Insights",
+      "description": "Quality, analytics, and feedback products to improve CX and product from conversation data.",
+      "key_features": [
+        "AI agents for quality audits across voice and non-voice",
+        "Conversational intelligence: sentiment, forecasting, mining contact center data",
+        "GenAI surveys and feedback management with closed-loop tasks"
+      ],
+      "target_users": ["QA and compliance", "Product and ops", "Voice of customer teams"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Employee experience",
+      "description": "Internal IT and HR support with service desk, workspaces, and employee-facing AI agents.",
+      "key_features": [
+        "Service desk for HR/IT intake and resolution",
+        "Workspaces for chat, files, and tasks",
+        "AI agents for policy answers, access resets, and workflow automation"
+      ],
+      "target_users": ["IT", "HR", "Employees"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "VP / Head of Customer Experience",
+      "role": "Owns CSAT, cost-to-serve, and digital transformation",
+      "seniority": "VP / Director",
+      "goals": [
+        "Deflect routine volume",
+        "Improve FCR and CSAT",
+        "Standardize omnichannel support"
+      ],
+      "pains": [
+        "Tool sprawl",
+        "Long implementation cycles",
+        "Unclear ROI on AI pilots"
+      ],
+      "typical_workflow": "Demo → pilot on one line of business → expand channels",
+      "constraints": ["Security review", "Existing CRM and telephony stack"]
+    },
+    {
+      "name": "Contact center operations",
+      "role": "Runs queues, SLAs, and workforce",
+      "seniority": "Manager",
+      "goals": ["Lower AHT", "Higher utilization", "Consistent QA"],
+      "pains": ["After-call work", "Inconsistent scoring", "Channel silos"],
+      "typical_workflow": "Route intents → monitor dashboards → coach with audit insights",
+      "constraints": ["Regulatory recording and consent"]
+    },
+    {
+      "name": "IT / internal support lead",
+      "role": "Employee service and EX tooling",
+      "seniority": "Manager / Head",
+      "goals": ["Faster ticket resolution", "Self-service for employees"],
+      "pains": ["Slack and email swivel", "Duplicate tickets"],
+      "typical_workflow": "Unified service desk with AI deflection",
+      "constraints": ["Identity and access policies"]
+    }
+  ],
+  "primary_geos": ["India", "United States", "Southeast Asia", "Global enterprise"],
+  "primary_languages": ["en"],
+  "competitors": [
+    {"name": "Zendesk", "aliases": [], "notes": "Listed on site in compare"},
+    {"name": "Salesforce", "aliases": ["Salesforce Service Cloud"], "notes": "Listed on site in compare"},
+    {"name": "Freshdesk", "aliases": [], "notes": "Listed on site in compare"},
+    {"name": "Intercom", "aliases": [], "notes": "Adjacent conversational CX"},
+    {"name": "Genesys", "aliases": [], "notes": "Contact center incumbents"}
+  ],
+  "differentiators": [
+    "Agentic AI and voice-first positioning with enterprise observability",
+    "Single platform spanning customer CX and employee experience",
+    "Verticalized messaging for BFSI, retail, travel, digital native, utilities, durables",
+    "Gartner Peer Insights Customers’ Choice 2025 (per site)",
+    "Named customer proof points (e.g. Tata 1mg, BigBasket, Stanley Black & Decker, Namma Yatri) with FCR/CSAT/TAT metrics"
+  ],
+  "common_misconceptions": [
+    "Kapture is not only chatbots; site emphasizes voice AI agents, ticketing, QA, and EX in one stack.",
+    "Implementation and 24/7 vendor support are part of the enterprise narrative on testimonials."
+  ],
+  "regulated_or_sensitive_topics": [
+    "Customer PII and conversation recordings",
+    "BFSI compliance and audit trails",
+    "Cross-border data processing for global enterprises"
+  ],
+  "seed_queries": [],
+  "must_include_terms": [
+    "Kapture",
+    "customer experience",
+    "AI agents",
+    "contact center"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "Kapture CX",
+    "Kapture AI agents",
+    "voice AI customer support",
+    "AI ticketing platform",
+    "Zendesk vs Kapture",
+    "Freshdesk vs Kapture",
+    "Salesforce vs Kapture",
+    "agentic AI customer service",
+    "omnichannel helpdesk India",
+    "AI quality assurance contact center",
+    "employee service desk AI"
+  ]
+}

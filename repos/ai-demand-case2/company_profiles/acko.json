@@ -1,0 +1,169 @@
+{
+  "company_name": "Acko",
+  "aliases": ["Acko.com", "ACKO Insurance", "ACKO"],
+  "description": "Acko is India's #1 insurance app and a leading digital-first insurer. Acko offers car, bike, health, life, and travel insurance with a focus on simplicity, fast claims, and zero commission. 12+ million app downloads, 98.8% claims settled in 1 week, 7-minute fastest claim settlement. Products include comprehensive motor insurance, term life (₹25L–₹100Cr), health insurance from ₹600/month, international travel insurance in 150+ countries, domestic AirPass, and enterprise solutions. Free services: challan check, FASTag recharge, PUC check, ABHA card, will creation. Best direct insurer 2025. Trusted by millions of customers for hassle-free online insurance.",
+  "industry": "Insurance",
+  "sub_industry": "Digital InsurTech",
+  "products_services": [
+    {
+      "name": "Car Insurance",
+      "description": "Simple prices, super fast claims. Comprehensive and third-party car insurance.",
+      "key_features": [
+        "Starting at ₹2094",
+        "Fast claims settlement",
+        "Zero depreciation, own damage",
+        "IDV calculator, premium calculator"
+      ],
+      "target_users": ["Car owners", "Fleet operators", "Individual drivers"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Bike Insurance",
+      "description": "Insure bike or scooter in just 1 minute. Comprehensive and third-party coverage.",
+      "key_features": [
+        "1-minute quick purchase",
+        "EV bike insurance",
+        "Scooter insurance",
+        "Premium calculator"
+      ],
+      "target_users": ["Two-wheeler owners", "Scooter riders"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Health Insurance",
+      "description": "100% hospital bill payments from syringes to surgeries. No surprises.",
+      "key_features": [
+        "From ₹600/month",
+        "Family floater, critical illness",
+        "Cashless, zero waiting period",
+        "Super top-up, group health"
+      ],
+      "target_users": ["Families", "Individuals", "Parents", "Senior citizens"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Life Insurance",
+      "description": "100% pure term insurance. Coverage from ₹25L to ₹100Cr. Zero commission.",
+      "key_features": [
+        "Pure term plans, no returns/jargons",
+        "Adjust coverage when needed",
+        "Free will creation",
+        "1 crore term insurance"
+      ],
+      "target_users": ["Primary earners", "Families"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Travel Insurance",
+      "description": "Emergency medical coverage in 150+ countries. Domestic AirPass for flight disruptions.",
+      "key_features": [
+        "International travel insurance",
+        "Schengen, Dubai, USA, Thailand",
+        "Multi-trip travel insurance",
+        "Domestic AirPass"
+      ],
+      "target_users": ["Travelers", "Business travelers", "Families"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Enterprise Solutions",
+      "description": "Group health insurance, gig worker health, loan protection, electronic device insurance.",
+      "key_features": [
+        "Gig worker health insurance",
+        "Loan protection for fintechs",
+        "Group travel insurance",
+        "Electronic device insurance"
+      ],
+      "target_users": ["Corporates", "Fintechs", "Gig platforms"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "Young Car Owner",
+      "role": "Individual",
+      "seniority": "N/A",
+      "goals": [
+        "Quick insurance purchase",
+        "Lowest premium",
+        "Fast claims"
+      ],
+      "pains": [
+        "Complex traditional processes",
+        "Slow claims",
+        "Agent commissions"
+      ],
+      "typical_workflow": "Compare quotes, buy online, manage policy in app",
+      "constraints": ["Budget", "Time"]
+    },
+    {
+      "name": "Family Health Buyer",
+      "role": "Family decision-maker",
+      "seniority": "N/A",
+      "goals": [
+        "Comprehensive family coverage",
+        "Cashless hospitalization",
+        "Affordable premiums"
+      ],
+      "pains": [
+        "Complex policy terms",
+        "Claim settlement delays"
+      ],
+      "typical_workflow": "Research plans, compare, buy family floater",
+      "constraints": []
+    },
+    {
+      "name": "Frequent Traveler",
+      "role": "Individual",
+      "seniority": "N/A",
+      "goals": [
+        "International travel coverage",
+        "Emergency medical abroad",
+        "Quick renewal"
+      ],
+      "pains": [
+        "Visa requirements",
+        "Last-minute purchases"
+      ],
+      "typical_workflow": "Buy travel insurance for trips, renew as needed",
+      "constraints": []
+    }
+  ],
+  "primary_geos": ["India"],
+  "primary_languages": ["en", "hi"],
+  "competitors": [
+    {"name": "Policybazaar", "aliases": ["PB"], "notes": null},
+    {"name": "Digit Insurance", "aliases": ["GoDigit"], "notes": null},
+    {"name": "Turtlemint", "aliases": [], "notes": null},
+    {"name": "HDFC Ergo", "aliases": [], "notes": null},
+    {"name": "Bajaj Allianz", "aliases": [], "notes": null}
+  ],
+  "differentiators": [
+    "India's #1 insurance app",
+    "98.8% claims settled in 1 week",
+    "7-minute fastest claim settlement",
+    "Direct insurer, zero commission",
+    "12+ million app downloads",
+    "Best direct insurer 2025"
+  ],
+  "common_misconceptions": [],
+  "regulated_or_sensitive_topics": ["Insurance"],
+  "seed_queries": [],
+  "must_include_terms": [
+    "insurance",
+    "digital",
+    "online"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "Acko",
+    "Acko insurance",
+    "car insurance online",
+    "bike insurance online",
+    "health insurance online",
+    "term insurance online",
+    "travel insurance India",
+    "digital insurance",
+    "Acko app"
+  ]
+}

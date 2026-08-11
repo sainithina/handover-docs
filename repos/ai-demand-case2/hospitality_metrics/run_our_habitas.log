@@ -1,0 +1,140 @@
+/Users/sainithinartham/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[1/100] openai/gpt-4o-mini | p5 (discovery) | run 1: 'best beachfront hotels in Tulum'
+[2/100] openai/gpt-4o-mini | p6 (discovery) | run 1: 'where to stay for a wellness retreat in Tulum'
+[3/100] openai/gpt-4o-mini | p8 (discovery) | run 1: "recommend a boutique hotel near Tulum's beach zone"
+[4/100] openai/gpt-4o-mini | p4 (discovery) | run 1: 'unique places to stay in Tulum away from the crowds'
+[5/100] openai/gpt-4o-mini | p2 (discovery) | run 1: 'where should I stay in Tulum for a beach vacation'
+[6/100] openai/gpt-4o-mini | p1 (discovery) | run 1: 'best boutique hotels in Tulum'
+[7/100] openai/gpt-4o-mini | p3 (discovery) | run 1: 'top eco-friendly hotels in Tulum'
+[8/100] openai/gpt-4o-mini | p7 (discovery) | run 1: 'best hotels in Tulum for a honeymoon'
+[9/100] openai/gpt-4o-mini | p9 (discovery) | run 1: 'best design hotels in Tulum'
+[10/100] openai/gpt-4o-mini | p11 (discovery) | run 1: 'top rated resorts in Tulum for a weekend getaway'
+[11/100] openai/gpt-4o-mini | p10 (discovery) | run 1: 'where should I stay in Tulum if I want a jungle setting'
+[12/100] openai/gpt-4o-mini | p14 (discovery) | run 1: 'best hotels near the Tulum ruins'
+[13/100] openai/gpt-4o-mini | p12 (discovery) | run 1: 'best hotels in Tulum with a pool and yoga classes'
+[14/100] openai/gpt-4o-mini | p16 (discovery) | run 1: 'where should I stay in Bacalar for a quiet getaway'
+[15/100] openai/gpt-4o-mini | p13 (discovery) | run 1: 'unique places to stay in Tulum instead of a big resort chain'
+[16/100] openai/gpt-4o-mini | p17 (discovery) | run 1: 'top boutique hotels in Bacalar'
+[17/100] openai/gpt-4o-mini | p19 (discovery) | run 1: 'unique places to stay in Bacalar, Mexico'
+[18/100] openai/gpt-4o-mini | p21 (discovery) | run 1: 'where to stay in Bacalar if I want lagoon views'
+[19/100] openai/gpt-4o-mini | p20 (discovery) | run 1: 'best hotels in Bacalar for a romantic trip'
+[20/100] openai/gpt-4o-mini | p25 (discovery) | run 1: 'best desert camps near Marrakech'
+[21/100] openai/gpt-4o-mini | p22 (discovery) | run 1: 'top rated resorts in Bacalar'
+[22/100] openai/gpt-4o-mini | p18 (discovery) | run 1: 'best places to stay near the Bacalar lagoon for swimming'
+[23/100] openai/gpt-4o-mini | p23 (discovery) | run 1: 'best eco lodges in Bacalar'
+[24/100] openai/gpt-4o-mini | p24 (discovery) | run 1: 'recommend a hotel in Bacalar for a digital detox trip'
+[25/100] openai/gpt-4o-mini | p15 (discovery) | run 1: 'best hotels on the Bacalar lagoon'
+[26/100] openai/gpt-4o-mini | p26 (discovery) | run 1: 'where should I stay for a desert glamping experience near Marrakech'
+[27/100] openai/gpt-4o-mini | p27 (discovery) | run 1: 'unique places to stay in the Agafay desert'
+[28/100] openai/gpt-4o-mini | p30 (discovery) | run 1: 'where to stay for a sunset desert experience near Marrakech'
+[29/100] openai/gpt-4o-mini | p32 (discovery) | run 1: 'recommend a boutique desert camp in Morocco'
+[30/100] openai/gpt-4o-mini | p31 (discovery) | run 1: 'best places to stay for stargazing near Marrakech'
+[31/100] openai/gpt-4o-mini | p29 (discovery) | run 1: 'top rated desert resorts near Marrakech'
+[32/100] openai/gpt-4o-mini | p28 (discovery) | run 1: 'best luxury tent camps near Marrakech'
+[33/100] openai/gpt-4o-mini | p33 (discovery) | run 1: 'best all-inclusive desert retreats near Marrakech'
+[34/100] openai/gpt-4o-mini | p36 (discovery) | run 1: 'where should I stay in AlUla for a heritage trip'
+[35/100] openai/gpt-4o-mini | p35 (discovery) | run 1: 'best hotels in AlUla, Saudi Arabia'
+[36/100] openai/gpt-4o-mini | p40 (discovery) | run 1: 'where to stay in AlUla for stargazing'
+[37/100] openai/gpt-4o-mini | p37 (discovery) | run 1: 'top boutique hotels in AlUla'
+[38/100] openai/gpt-4o-mini | p41 (discovery) | run 1: 'recommend a hotel in AlUla close to Hegra'
+[39/100] openai/gpt-4o-mini | p34 (discovery) | run 1: 'where should I stay in the Agafay desert for a weekend trip'
+[40/100] openai/gpt-4o-mini | p38 (discovery) | run 1: 'unique places to stay in AlUla near the rock formations'
+[41/100] openai/gpt-4o-mini | p39 (discovery) | run 1: 'best luxury resorts in AlUla'
+[42/100] openai/gpt-4o-mini | p42 (discovery) | run 1: 'best desert lodges in AlUla'
+[43/100] openai/gpt-4o-mini | p43 (discovery) | run 1: 'top rated hotels in AlUla for a family trip'
+[44/100] openai/gpt-4o-mini | p46 (discovery) | run 1: 'where should I stay for a glamping experience in AlUla'
+[45/100] openai/gpt-4o-mini | p47 (discovery) | run 1: 'unique tent stays in AlUla, Saudi Arabia'
+[46/100] openai/gpt-4o-mini | p50 (discovery) | run 1: 'where should I stay near the Ras Abrouq desert in Qatar'
+[47/100] openai/gpt-4o-mini | p44 (discovery) | run 1: 'best places to stay in AlUla for a cultural getaway'
+[48/100] openai/gpt-4o-mini | p45 (discovery) | run 1: 'best desert camps in AlUla'
+[49/100] openai/gpt-4o-mini | p48 (discovery) | run 1: 'best luxury camping options in AlUla'
+[50/100] openai/gpt-4o-mini | p49 (discovery) | run 1: "best resorts on Qatar's west coast"
+[51/100] openai/gpt-4o-mini | p56 (discovery) | run 1: 'recommend a resort near the Inland Sea in Qatar'
+[52/100] openai/gpt-4o-mini | p53 (discovery) | run 1: 'top rated desert resorts in Qatar'
+[53/100] openai/gpt-4o-mini | p54 (discovery) | run 1: 'where to stay in Qatar for a desert and beach combo trip'
+[54/100] openai/gpt-4o-mini | p57 (discovery) | run 1: 'best places to stay in Qatar for stargazing'
+[55/100] openai/gpt-4o-mini | p52 (discovery) | run 1: 'best beachfront resorts in Qatar'
+[56/100] openai/gpt-4o-mini | p55 (discovery) | run 1: 'best luxury villas in Qatar for a family vacation'
+[57/100] openai/gpt-4o-mini | p59 (discovery) | run 1: 'best mountain resorts near Dubai'
+[58/100] openai/gpt-4o-mini | p58 (discovery) | run 1: 'top boutique resorts in Qatar'
+[59/100] openai/gpt-4o-mini | p51 (discovery) | run 1: 'unique places to stay in Qatar outside Doha'
+[60/100] openai/gpt-4o-mini | p63 (discovery) | run 1: 'top rated eco resorts near Hatta'
+[61/100] openai/gpt-4o-mini | p60 (discovery) | run 1: 'where should I stay in Hatta for a weekend trip'
+[62/100] openai/gpt-4o-mini | p64 (discovery) | run 1: 'where to stay for outdoor adventure near Dubai'
+[63/100] openai/gpt-4o-mini | p62 (discovery) | run 1: 'best desert and mountain retreats near Dubai'
+[64/100] openai/gpt-4o-mini | p61 (discovery) | run 1: 'unique places to stay near Dubai away from the city'
+[65/100] openai/gpt-4o-mini | p65 (discovery) | run 1: 'best places to stay in Hatta for hiking and kayaking'
+[66/100] openai/gpt-4o-mini | p67 (discovery) | run 1: 'best glamping spots near Dubai'
+[67/100] openai/gpt-4o-mini | p66 (discovery) | run 1: 'recommend a nature retreat near Dubai'
+[68/100] openai/gpt-4o-mini | p70 (discovery) | run 1: 'what are the best community-focused hotel brands right now'
+[69/100] openai/gpt-4o-mini | p68 (discovery) | run 1: 'top boutique stays in the UAE outside the city'
+[70/100] openai/gpt-4o-mini | p71 (discovery) | run 1: 'best hotel brands for wellness and personal growth retreats'
+[71/100] openai/gpt-4o-mini | p72 (discovery) | run 1: 'unique hotel brands that feel more like a community than a hotel'
+[72/100] openai/gpt-4o-mini | p73 (discovery) | run 1: 'best boutique hotel groups with properties in Mexico and the Middle East'
+[73/100] openai/gpt-4o-mini | p69 (discovery) | run 1: 'best boutique hotel brands for design-focused travelers'
+[74/100] openai/gpt-4o-mini | p74 (discovery) | run 1: 'alternatives to big resort chains for a design-forward stay'
+[75/100] openai/gpt-4o-mini | p75 (discovery) | run 1: 'best hotel brands known for live music and wellness programming'
+[76/100] openai/gpt-4o-mini | p76 (discovery) | run 1: 'best places to stay if I want an immersive cultural experience'
+[77/100] openai/gpt-4o-mini | p77 (discovery) | run 1: 'top boutique hotel brands for solo travelers looking to meet people'
+[78/100] openai/gpt-4o-mini | p83 (discovery) | run 1: 'best boutique hotel brand alternatives to Aman or Six Senses'
+[79/100] openai/gpt-4o-mini | p78 (discovery) | run 1: 'best hotel brands for a digital detox retreat'
+[80/100] openai/gpt-4o-mini | p79 (discovery) | run 1: 'unique hotel concepts that combine art, music and wellness'
+[81/100] openai/gpt-4o-mini | p81 (discovery) | run 1: 'top hotel brands for a transformative travel experience'
+[82/100] openai/gpt-4o-mini | p80 (discovery) | run 1: 'best boutique hotel brands with desert properties'
+[83/100] openai/gpt-4o-mini | p82 (discovery) | run 1: 'best places to stay for a retreat centered on connection and community'
+[84/100] openai/gpt-4o-mini | p84 (discovery) | run 1: 'recommend a hotel brand known for sustainability and local community impact'
+[85/100] openai/gpt-4o-mini | p86 (discovery) | run 1: 'top emerging boutique hotel brands to know about'
+[86/100] openai/gpt-4o-mini | p85 (discovery) | run 1: 'best hotel brands for adults-only wellness getaways'
+[87/100] openai/gpt-4o-mini | p89 (discovery) | run 1: 'best boutique hotel brands for a bachelorette or bachelor trip'
+[88/100] openai/gpt-4o-mini | p87 (discovery) | run 1: 'best hotel brands with locations in both Mexico and Saudi Arabia'
+[89/100] openai/gpt-4o-mini | p90 (discovery) | run 1: 'top hotel brands known for their food and music programming'
+[90/100] openai/gpt-4o-mini | p91 (discovery) | run 1: 'best hotel brands that host retreats and workshops'
+[91/100] openai/gpt-4o-mini | p92 (discovery) | run 1: 'recommend a boutique hotel brand for a spiritual retreat'
+[92/100] openai/gpt-4o-mini | p88 (discovery) | run 1: 'unique hotel brands for a milestone birthday trip'
+[93/100] openai/gpt-4o-mini | p93 (discovery) | run 1: 'best hotel brands for people who want more than just a room'
+[94/100] openai/gpt-4o-mini | p95 (discovery) | run 1: 'best hotel brands for a design and architecture focused trip'
+[95/100] openai/gpt-4o-mini | p100 (discovery) | run 1: 'recommend a boutique hotel brand for a group trip with friends'
+[96/100] openai/gpt-4o-mini | p97 (discovery) | run 1: 'best boutique hotel brands for a multi-generational family trip'
+[97/100] openai/gpt-4o-mini | p98 (discovery) | run 1: 'top hotel brands for combining travel with personal development'
+[98/100] openai/gpt-4o-mini | p94 (discovery) | run 1: 'top boutique hotel groups expanding into new destinations'
+[99/100] openai/gpt-4o-mini | p96 (discovery) | run 1: 'unique hotel brands with a strong Instagram aesthetic'
+[100/100] openai/gpt-4o-mini | p99 (discovery) | run 1: 'best hotel brands known for immersive desert experiences'
+
+========================================================================
+Shortlist Rate & Routing Interception Rate — Our Habitas
+========================================================================
+
+Discovery-prompt runs: 100
+Shortlist Rate: 30.0%  (30/100)
+  Position histogram (when named): pos 1: 7, pos 2: 8, pos 3: 7, pos 4: 5, pos 5: 3
+
+Named in 30/100 discovery runs
+Routing Interception Rate (of all named):   46.7%
+Routing Interception Rate (of named+linked): 51.9%
+
+Merchant breakdown (who came up selling this property):
+  Destination                 Category        Count   Share of named
+  https://www.ourhabitas.com/ras-abrouq/direct_official 5       16.7%
+  https://group.accor.com/en/brands-and-experiences/our-hotel-brands/our-habitasother           4       13.3%
+  no_link                     no_link         3       10.0%
+  https://www.ourhabitas.com/alula/direct_official 3       10.0%
+  https://www.ourhabitas.com/caravan-alula/direct_official 3       10.0%
+  https://www.ourhabitas.com/bacalar/direct_official 2       6.7%
+  https://www.expedia.com/Bacalar-Hotels-Romantic-Hotel.0-0-d6131112-tRomanticHotel.Travel-Guide-Filter-Hotelsota             1       3.3%
+  https://www.i-escape.com/our-habitas-bacalarother           1       3.3%
+  https://www.ourhabitas.com/caravan-agafay/direct_official 1       3.3%
+  https://www.roomertravel.com/uk/article/sleeping-in-the-canyon-alula-doesnt-want-you-to-leave.a4805other           1       3.3%
+  experiencealula.com         other           1       3.3%
+  https://www.experiencealula.com/en/hotels-and-stays/habitas-alula-resortother           1       3.3%
+  kiwicollection.com          other           1       3.3%
+  https://gulfmagazine.co/7-powerful-reasons-our-habitas-ras-abrouq-is-2025/other           1       3.3%
+  https://all.accor.com/hotel/C593/index.en.shtmlother           1       3.3%
+  here                        other           1       3.3%
+
+By engine:
+  openai/gpt-4o-mini: shortlist 30.0%  routing(named) 46.7%  routing(linked) 51.9%
+
+========================================================================
+
+Outputs written to: /Users/sainithinartham/Downloads/ai-demand-case2/hospitality_metrics/runs/20260805T073835Z

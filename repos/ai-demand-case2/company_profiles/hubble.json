@@ -1,0 +1,222 @@
+{
+  "company_name": "Hubble Money",
+  "aliases": [
+    "Hubble",
+    "Hubble Rewards",
+    "hubblemoney",
+    "myhubble.money",
+    "Gullak Technologies Pvt Ltd"
+  ],
+  "description": "Hubble Money is a modern SaaS platform for channel incentives, loyalty, and rewards. It helps businesses launch a rewards store in ~24 hours at zero cost/low tech bandwidth via no-code/white-label solutions that drop into an app via SDK, integrate via a modern Rewards API, or run as a fully white-labeled web loyalty portal with no product integration. Hubble provides a catalogue of gift cards and rewards from 500+ brands (and reports 1,000+ merchants) across 20+ categories with exclusive discounts, configurable UI/templates, internal currency/coin integration, instant reward delivery (email/WhatsApp/SMS), fraud prevention, reconciliation, customer support, and analytics/real-time insights. Reported scale includes 100+ happy clients, 10L+ recipients, ₹1,000Cr+ GMV rewards processed, ₹500M+ rewards shared, and 40M+ users benefitted.",
+  "industry": "Rewards / Loyalty / Incentives",
+  "sub_industry": "Rewards API + White-label Loyalty Platform",
+  "products_services": [
+    {
+      "name": "No-code Rewards Store (SDK)",
+      "description": "A configurable rewards store that can be embedded into an app with minimal engineering, offering gift cards/rewards from 500+ brands.",
+      "key_features": [
+        "Launch in ~1 day / 24 hours",
+        "Catalogue of 500+ brands (gift cards) with exclusive discounts",
+        "Highly configurable UI (CSS, templates, brand catalogue)",
+        "Internal currency integration (coins/rewards)",
+        "Instant reward delivery via Email/WhatsApp/SMS",
+        "Fraud prevention and reconciliation support",
+        "Analytics and benchmark insights",
+        "Customer support for end users"
+      ],
+      "target_users": [
+        "Consumer apps",
+        "Fintech apps",
+        "E-commerce",
+        "Quick commerce",
+        "Ed-tech",
+        "Banks",
+        "Enterprises"
+      ],
+      "pricing_notes": "Marketing claims emphasize zero cost / minimal tech bandwidth; commercial terms likely depend on volume and configuration."
+    },
+    {
+      "name": "Rewards API (Enterprise)",
+      "description": "A modern API to embed a rewards store or enhance an existing rewards program with 500+ brands, including brand terms, offers, and usage guidelines.",
+      "key_features": [
+        "Modern rich API with brand details, T&Cs, usage guidelines",
+        "Embed in any digital platform / tech stack",
+        "Go live in 1 day",
+        "Customizable brand catalogue (20+ categories)",
+        "Real-time insights on purchase behavior",
+        "Dedicated support; no operational burden",
+        "Security, fraud checks, reconciliation"
+      ],
+      "target_users": [
+        "Banks & NBFCs",
+        "Fintechs",
+        "Corporates",
+        "Marketplaces",
+        "Platforms with internal currencies"
+      ],
+      "pricing_notes": null
+    },
+    {
+      "name": "White-label Loyalty Portal (No Integration)",
+      "description": "A web-based, white-labeled rewards portal that requires no product integration; users access via codes and redeem rewards using coins (1 coin = ₹1).",
+      "key_features": [
+        "White-labeled web portal",
+        "No product integration needed",
+        "Code-based access with pre-loaded reward amounts",
+        "Coins wallet (1 coin = ₹1)",
+        "Redeem coins for gift cards from curated brands",
+        "Analytics and real-time insights",
+        "Customer support, fraud prevention, reconciliation"
+      ],
+      "target_users": [
+        "Banks",
+        "Enterprises",
+        "Consumer brands running loyalty programs",
+        "Teams running campaigns with reward codes"
+      ],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "Retention / Growth Manager",
+      "role": "Growth / CRM / Retention",
+      "seniority": "Mid to senior",
+      "goals": [
+        "Increase retention and repeat purchases",
+        "Improve engagement via rewards",
+        "Run campaigns without heavy engineering"
+      ],
+      "pains": [
+        "Building a rewards store is complex and ops-heavy",
+        "Fraud and reconciliation concerns",
+        "Slow integrations and vendor coordination"
+      ],
+      "typical_workflow": "Define reward campaigns, choose catalogue, launch in-app rewards store, monitor analytics, iterate",
+      "constraints": [
+        "Engineering bandwidth",
+        "Budget / vendor approvals",
+        "Fraud and compliance"
+      ]
+    },
+    {
+      "name": "Product Manager (Consumer App)",
+      "role": "Product",
+      "seniority": "Mid-level",
+      "goals": [
+        "Embed rewards seamlessly into existing journeys",
+        "Support internal currency/coins",
+        "Deliver reliable redemption experiences"
+      ],
+      "pains": [
+        "Integration complexity across multiple merchants",
+        "UX consistency and latency",
+        "Operational load for support"
+      ],
+      "typical_workflow": "Evaluate SDK/API, integrate, configure UI/catalogue, run pilot, scale program",
+      "constraints": []
+    },
+    {
+      "name": "Partnerships / Incentives Lead (Enterprise)",
+      "role": "Business / Partnerships",
+      "seniority": "Manager",
+      "goals": [
+        "Run channel incentives and employee/client rewards",
+        "Track redemptions and ROI",
+        "Reduce fraud and support issues"
+      ],
+      "pains": [
+        "Vendor fragmentation across gift card merchants",
+        "Fraud and leakage",
+        "Manual reconciliation and support escalations"
+      ],
+      "typical_workflow": "Select reward types, distribute codes/coins, monitor redemption and reporting",
+      "constraints": []
+    }
+  ],
+  "primary_geos": [
+    "India"
+  ],
+  "primary_languages": [
+    "en"
+  ],
+  "competitors": [
+    {
+      "name": "GyFTR",
+      "aliases": [],
+      "notes": "Gift card and rewards infrastructure provider (India)."
+    },
+    {
+      "name": "Xoxoday",
+      "aliases": [
+        "Plum"
+      ],
+      "notes": "Rewards, incentives, and payouts platform."
+    },
+    {
+      "name": "Pine Labs",
+      "aliases": [],
+      "notes": "Gift cards, payments, and merchant ecosystem; offers loyalty/rewards tooling."
+    },
+    {
+      "name": "Woohoo",
+      "aliases": [
+        "Qwikcilver"
+      ],
+      "notes": "Gift card infrastructure / closed-loop & open-loop gift cards."
+    },
+    {
+      "name": "Razorpay Engage",
+      "aliases": [
+        "Razorpay Gift Cards"
+      ],
+      "notes": "Rewards and engagement tooling within a broader payments platform."
+    }
+  ],
+  "differentiators": [
+    "Launch a rewards store in ~24 hours with minimal engineering (SDK/no-code)",
+    "Multiple deployment modes: SDK, API, or white-label loyalty portal (no integration)",
+    "Large rewards catalogue (500+ brands; 20+ categories) with exclusive discounts",
+    "Internal currency/coins support (value amplification via discounts)",
+    "End-to-end ops: fraud checks, reconciliation, customer support",
+    "Built-in analytics and real-time insights"
+  ],
+  "common_misconceptions": [
+    "Hubble is only a consumer discounts app (it also provides B2B SDK/API/white-label loyalty solutions).",
+    "A rewards store requires heavy custom engineering (Hubble positions itself as low/no-code with rapid launch)."
+  ],
+  "regulated_or_sensitive_topics": [
+    "Payments / stored value (coins) integrations may require compliance and reconciliation considerations"
+  ],
+  "seed_queries": [
+    "launch rewards store in app",
+    "rewards API for loyalty program",
+    "white label loyalty portal",
+    "gift card catalogue API",
+    "integrate internal currency with rewards",
+    "employee rewards gift cards platform",
+    "channel incentives rewards platform",
+    "fraud prevention for gift card rewards"
+  ],
+  "must_include_terms": [
+    "rewards",
+    "loyalty",
+    "gift cards",
+    "API",
+    "SDK",
+    "white-label"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "Hubble Money",
+    "Hubble rewards",
+    "rewards store SDK",
+    "rewards API",
+    "white label loyalty portal",
+    "gift card catalogue API",
+    "employee rewards gift cards",
+    "channel incentives platform",
+    "loyalty rewards program platform"
+  ]
+}
+

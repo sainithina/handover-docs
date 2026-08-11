@@ -1,0 +1,161 @@
+{
+  "company_name": "Tina Davies Professional",
+  "intents": [
+    {
+      "intent_name": "I ❤️ INK Brow Pigments",
+      "intent_id": "i_love_ink_brow_pigments",
+      "prompts": [
+        "What specific client pain points related to brow pigment performance does Tina Davies address with I ❤️ INK?",
+        "How does Tina Davies describe the ideal client profile for artists using I ❤️ INK Brow Pigments?",
+        "How does Tina Davies differentiate its I ❤️ INK Brow Pigments regarding color retention within the permanent makeup supplies market?",
+        "What support or educational resources does Tina Davies offer to artists using I ❤️ INK brow pigments?",
+        "How does Tina Davies position the I ❤️ INK Brow Pigments relative to other pigment brands in the professional market?",
+        "What assurances does Tina Davies provide regarding the safety and regulatory compliance of I ❤️ INK pigments?",
+        "What features of I ❤️ INK Brow Pigments does Tina Davies emphasize for professional permanent makeup artists?"
+      ]
+    },
+    {
+      "intent_name": "IceCream™ Topical Anesthetic",
+      "intent_id": "icecream_topical_anesthetic",
+      "prompts": [
+        "What specific skin types or procedures is IceCream™ Topical Anesthetic best suited for, according to Tina Davies?",
+        "What is the recommended timing for applying IceCream™ Topical Anesthetic before and during permanent makeup procedures?",
+        "What are the key ingredients in IceCream™ Topical Anesthetic, and what role does each play in pain reduction?",
+        "What warnings or precautions does Tina Davies provide regarding the use of IceCream™ Topical Anesthetic?",
+        "How does Tina Davies position IceCream™ Topical Anesthetic compared to other pain relief solutions for permanent makeup artists?",
+        "How does Tina Davies ensure the safety and efficacy of IceCream™ Topical Anesthetic for professional use?",
+        "What application methods does Tina Davies recommend for IceCream™ Topical Anesthetic to maximize its numbing effect?"
+      ]
+    },
+    {
+      "intent_name": "FADE Eyebrow Pigments",
+      "intent_id": "fade_eyebrow_pigments",
+      "prompts": [
+        "What assurances does Tina Davies provide regarding the longevity and stability of FADE eyebrow pigment color?",
+        "What specific application techniques or artist skill levels are FADE eyebrow pigments designed to support?",
+        "How does Tina Davies address concerns about pigment migration or color change with FADE eyebrow pigments?",
+        "How does Tina Davies position FADE pigments relative to other eyebrow pigment brands in the permanent makeup market?",
+        "What is the pricing strategy for FADE pigments, and how does it compare to other premium pigment options?",
+        "What educational resources or support does Tina Davies offer to artists using FADE eyebrow pigments?",
+        "What are the key differentiating factors of Tina Davies' FADE eyebrow pigments compared to conventional pigments?"
+      ]
+    },
+    {
+      "intent_name": "PMU Aftercare",
+      "intent_id": "pmu_aftercare",
+      "prompts": [
+        "What is Tina Davies' recommended aftercare timeline for optimal PMU results and client satisfaction?",
+        "What educational resources does Tina Davies provide to PMU artists regarding aftercare best practices?",
+        "What specific aftercare instructions does Tina Davies recommend for different PMU procedures?",
+        "What are the key ingredients in Tina Davies' aftercare products and their intended benefits?",
+        "How does Tina Davies differentiate its aftercare products from generic options for PMU artists?",
+        "How does Tina Davies address common aftercare-related concerns or misconceptions among PMU clients?",
+        "How does Tina Davies advise clients to manage potential complications during the PMU aftercare period?"
+      ]
+    },
+    {
+      "intent_name": "PIXL Needle Cartridges",
+      "intent_id": "pixl_needle_cartridges",
+      "prompts": [
+        "What features of the PIXL needle cartridges does Tina Davies emphasize for professional permanent makeup artists?",
+        "What aspects of PIXL needle cartridge design does Tina Davies highlight for improved artist control and comfort?",
+        "How does Tina Davies position the quality and precision of its PIXL needle cartridges within the permanent makeup supplies category?",
+        "How does Tina Davies differentiate its PIXL needle cartridges from competitors in the permanent makeup market?",
+        "How does Tina Davies demonstrate the value proposition of PIXL needle cartridges for professional permanent makeup artists?",
+        "What specific artist pain points do Tina Davies PIXL needle cartridges address in permanent makeup application?",
+        "What benefits of using Tina Davies PIXL cartridges are highlighted for achieving specific permanent makeup results?"
+      ]
+    },
+    {
+      "intent_name": "Lust & Envy Lip Pigments",
+      "intent_id": "lust_envy_lip_pigments",
+      "prompts": [
+        "What is the intended longevity or fade-resistance of Tina Davies' Lust & Envy lip pigments?",
+        "What specific application techniques does Tina Davies recommend for optimal Lust & Envy lip pigment results?",
+        "What aftercare instructions does Tina Davies provide for clients who receive Lust & Envy lip pigment treatments?",
+        "What are the key ingredients in Tina Davies' Lust & Envy lip pigments, and what benefits do they offer?",
+        "Does Tina Davies offer any training or educational resources for using Lust & Envy lip pigments effectively?",
+        "How does Tina Davies address potential risks or complications associated with Lust & Envy lip pigment use?",
+        "How does Tina Davies differentiate Lust & Envy lip pigments from competitors in the permanent makeup supplies market?"
+      ]
+    },
+    {
+      "intent_name": "Brows",
+      "intent_id": "brows",
+      "prompts": [
+        "What specific Tina Davies products or techniques are recommended for different brow styles?",
+        "How does Tina Davies train artists to correct or camouflage previous brow permanent makeup work?",
+        "What safety protocols or aftercare instructions does Tina Davies provide for brow procedures?",
+        "What pigments are recommended for different brow colors by Tina Davies, and why?",
+        "How does Tina Davies address common challenges faced by artists in creating symmetrical brows?",
+        "How does Tina Davies instruct artists to consult with clients about their desired brow appearance?",
+        "What brow shaping or design principles does Tina Davies emphasize for permanent makeup artists?"
+      ]
+    },
+    {
+      "intent_name": "Permanent Makeup Pigments",
+      "intent_id": "permanent_makeup_pigments",
+      "prompts": [
+        "What specific application techniques does Tina Davies recommend for optimal pigment retention?",
+        "How does Tina Davies differentiate its pigment formulations from competitor offerings?",
+        "What are the key ingredients in Tina Davies pigments and their purpose?",
+        "What safety and regulatory standards does Tina Davies adhere to for its pigments?",
+        "How does Tina Davies describe the longevity and stability of its permanent makeup pigments?",
+        "What pigment characteristics does Tina Davies emphasize for different skin tones?",
+        "What educational resources does Tina Davies provide regarding pigment selection and usage?"
+      ]
+    },
+    {
+      "intent_name": "Microblading",
+      "intent_id": "microblading",
+      "prompts": [
+        "What are the key features of Tina Davies' microblading needles and how are they differentiated?",
+        "What pigments does Tina Davies offer for microblading, and how are they formulated for retention?",
+        "What support or community features does Tina Davies provide to microblading professionals?",
+        "How does Tina Davies address safety and hygiene standards in its microblading product descriptions?",
+        "How does Tina Davies position its microblading products for professional artists compared to competitors?",
+        "What microblading supplies does Tina Davies highlight as essential for permanent makeup artists?",
+        "What specific training or educational resources does Tina Davies offer for microblading artists?"
+      ]
+    },
+    {
+      "intent_name": "The Collective+ Membership",
+      "intent_id": "collective_plus_membership",
+      "prompts": [
+        "What are the stated goals or outcomes for artists who join the Tina Davies Collective+ membership?",
+        "How does the Collective+ membership contribute to the monetization strategy for Tina Davies?",
+        "What specific resources or tools are included in the Collective+ membership for permanent makeup artists?",
+        "How does Tina Davies position the Collective+ membership to enhance professional artist capabilities?",
+        "How does Tina Davies differentiate the Collective+ membership from standard product offerings?",
+        "What are the key features and benefits promoted for the Collective+ membership by Tina Davies?",
+        "What type of educational content is available through the Tina Davies Collective+ membership?"
+      ]
+    },
+    {
+      "intent_name": "Color Selection",
+      "intent_id": "color_selection",
+      "prompts": [
+        "How does Tina Davies guide artists in selecting the correct pigment color for different skin tones?",
+        "What factors does Tina Davies highlight as critical when choosing pigment colors for lip blushing?",
+        "What advice does Tina Davies offer for correcting or adjusting pigment colors after initial application?",
+        "How does Tina Davies address the longevity and color stability of pigments in its educational content?",
+        "What are Tina Davies' recommendations for selecting colors based on client consultation outcomes?",
+        "What resources does Tina Davies provide to help artists understand color theory in permanent makeup?",
+        "How does Tina Davies explain the color selection process for various permanent makeup procedures?"
+      ]
+    },
+    {
+      "intent_name": "Prep & Pre-Draw",
+      "intent_id": "prep_and_predraw",
+      "prompts": [
+        "What specific benefits does Tina Davies highlight for its prep and pre-draw range?",
+        "Does Tina Davies offer any educational resources related to prep and pre-draw techniques?",
+        "What are the price points for Tina Davies' various prep and pre-draw products?",
+        "What are the key steps outlined by Tina Davies for effective prep and pre-draw procedures?",
+        "What prep and pre-draw products does Tina Davies offer for permanent makeup artists?",
+        "How does Tina Davies address potential risks associated with improper prep and pre-draw?",
+        "How does Tina Davies differentiate its prep and pre-draw products from competitors in the market?"
+      ]
+    }
+  ]
+}

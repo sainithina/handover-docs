@@ -1,0 +1,8 @@
+# Optional overrides: hosts listed under a heading use that category in platform_domains.txt
+# Use exactly this heading form (three equals signs):
+# === Category display name ===
+# host.example.com
+# another.example.org
+#
+# Categories should match names in build_platform_domains_1k.py (CATEGORY_ORDER) when possible.
+# Hosts not listed here are categorized by rules in the build script.

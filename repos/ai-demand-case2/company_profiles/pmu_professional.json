@@ -1,0 +1,64 @@
+{
+  "company_name": "PMU Professional Supplies",
+  "aliases": ["PMU supplies", "permanent makeup professional"],
+  "description": "Professional permanent makeup (PMU) and cosmetic tattoo supplies: machines, cartridges, pigments, numbing, training kits, and wholesale tools for artists and academies. Topics include Perma Blend, Girlz Ink, Li Pigments, Brow Daddy, Microbeau, membrane cartridges, lip blush, microblading, and EU REACH compliance queries.",
+  "industry": "Beauty / Professional PMU",
+  "sub_industry": "Permanent makeup pigments, machines, and professional supplies",
+  "products_services": [
+    {
+      "name": "PMU pigments and inks",
+      "description": "Professional permanent makeup pigments, diluents, and color correction.",
+      "key_features": ["Brand comparisons", "REACH compliance", "ombre brows", "lip blush"],
+      "target_users": ["PMU artists", "studios", "trainers"],
+      "pricing_notes": null
+    },
+    {
+      "name": "PMU machines and cartridges",
+      "description": "PMU devices, membrane cartridges, needles.",
+      "key_features": ["Ombre powder brows", "lip blush machines"],
+      "target_users": ["Artists", "salons"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Numbing",
+      "description": "Topical anesthetics for PMU and microblading.",
+      "key_features": ["Lidocaine", "Zensa alternatives"],
+      "target_users": ["Licensed professionals"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "PMU Artist",
+      "role": "Licensed permanent makeup professional",
+      "seniority": "Independent or studio",
+      "goals": ["Best pigments and machines", "client safety"],
+      "pains": ["Brand confusion", "regulatory rules"],
+      "typical_workflow": "Research brands, purchase supplies, perform procedures",
+      "constraints": ["Local regulations"]
+    }
+  ],
+  "primary_geos": ["United States", "United Kingdom", "European Union", "India"],
+  "primary_languages": ["en"],
+  "competitors": [
+    {"name": "Perma Blend", "aliases": [], "notes": "Pigment brand"},
+    {"name": "Girlz Ink", "aliases": [], "notes": "Pigment brand"},
+    {"name": "Li Pigments", "aliases": [], "notes": "Pigment brand"},
+    {"name": "Brow Daddy", "aliases": [], "notes": "Pigment brand"},
+    {"name": "Microbeau", "aliases": [], "notes": "Machine brand"}
+  ],
+  "differentiators": [],
+  "common_misconceptions": [],
+  "regulated_or_sensitive_topics": ["topical anesthetics", "tattoo pigments", "REACH regulations"],
+  "seed_queries": [],
+  "must_include_terms": ["PMU", "permanent makeup", "microblading", "pigment"],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "permanent makeup pigments",
+    "pmu machine",
+    "microblading supplies",
+    "perma blend",
+    "lip blush pigment",
+    "pmu cartridges"
+  ]
+}

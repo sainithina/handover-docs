@@ -1,0 +1,730 @@
+Keywords: ['digit health insurance', 'health insurance', 'check policy premium digit', 'check premium breakdown', 'digit health insurance premium', 'digit health insurance waiting period', 'digit pre-existing waiting period', 'digit premium details', 'digit senior citizen health insurance', 'digit waiting period pre-existing conditions']
+Location: 2356 | Language: en
+------------------------------------------------------------
+
+--- Raw API response ---
+{
+  "version": "0.1.20260430",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "6.3513 sec.",
+  "cost": 0.011,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "05151654-1383-0619-0000-6706231efd54",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "6.2942 sec.",
+      "cost": 0.011,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "ai_optimization",
+        "ai_keyword_data",
+        "keywords_search_volume",
+        "live"
+      ],
+      "data": {
+        "api": "ai_optimization",
+        "function": "keywords_search_volume",
+        "keywords": [
+          "digit health insurance",
+          "health insurance",
+          "check policy premium digit",
+          "check premium breakdown",
+          "digit health insurance premium",
+          "digit health insurance waiting period",
+          "digit pre-existing waiting period",
+          "digit premium details",
+          "digit senior citizen health insurance",
+          "digit waiting period pre-existing conditions"
+        ],
+        "location_code": 2356,
+        "language_code": "en"
+      },
+      "result": [
+        {
+          "location_code": 2356,
+          "language_code": "en",
+          "items_count": 10,
+          "items": [
+            {
+              "keyword": "digit health insurance",
+              "ai_search_volume": 4,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 2
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 7
+                },
+                {
+                  "year": 2025,
+                  "month": 9,
+                  "ai_search_volume": 7
+                },
+                {
+                  "year": 2025,
+                  "month": 8,
+                  "ai_search_volume": 12
+                },
+                {
+                  "year": 2025,
+                  "month": 7,
+                  "ai_search_volume": 11
+                },
+                {
+                  "year": 2025,
+                  "month": 6,
+                  "ai_search_volume": 13
+                },
+                {
+                  "year": 2025,
+                  "month": 5,
+                  "ai_search_volume": 13
+                }
+              ]
+            },
+            {
+              "keyword": "health insurance",
+              "ai_search_volume": 8542,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 8542
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 9321
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 9351
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 10750
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 9855
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 8327
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 8709
+                },
+                {
+                  "year": 2025,
+                  "month": 9,
+                  "ai_search_volume": 9203
+                },
+                {
+                  "year": 2025,
+                  "month": 8,
+                  "ai_search_volume": 10723
+                },
+                {
+                  "year": 2025,
+                  "month": 7,
+                  "ai_search_volume": 10094
+                },
+                {
+                  "year": 2025,
+                  "month": 6,
+                  "ai_search_volume": 10073
+                },
+                {
+                  "year": 2025,
+                  "month": 5,
+                  "ai_search_volume": 10443
+                }
+              ]
+            },
+            {
+              "keyword": "check policy premium digit",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 8,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 5,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "check premium breakdown",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 8,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 5,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "digit health insurance premium",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 8,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 5,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "digit health insurance waiting period",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 8,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 6,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2025,
+                  "month": 5,
+                  "ai_search_volume": 2
+                }
+              ]
+            },
+            {
+              "keyword": "digit pre-existing waiting period",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 8,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 5,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "digit premium details",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 8,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 5,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "digit senior citizen health insurance",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 8,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 5,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "digit waiting period pre-existing conditions",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 8,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 5,
+                  "ai_search_volume": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+--- Parsed results (via DataForSEOSVClient) ---
+  digit health insurance: SV=1900, CPC=1.84, competition=0.59
+  health insurance: SV=246000, CPC=5.99, competition=0.66
+  check policy premium digit: ERROR Keyword not found
+  check premium breakdown: ERROR Keyword not found
+  digit health insurance premium: ERROR Keyword not found
+  digit health insurance waiting period: SV=10, CPC=None, competition=0.38
+  digit pre-existing waiting period: ERROR Keyword not found
+  digit premium details: ERROR Keyword not found
+  digit senior citizen health insurance: SV=10, CPC=0.47, competition=0.86
+  digit waiting period pre-existing conditions: ERROR Keyword not found

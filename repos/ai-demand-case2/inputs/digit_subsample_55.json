@@ -1,0 +1,166 @@
+{
+  "company_name": "Digit Insurance",
+  "description": "Stratified subsample of 55 prompts (funnel × depth/breadth)",
+  "intents": [
+    {
+      "intent_name": "General Health Insurance & Policies",
+      "intent_id": "general_health_insurance_policies",
+      "prompts": [
+        "What are the real benefits of having health insurance in India if I'm young and healthy?",
+        "How do waiting periods work in health insurance policies in India?",
+        "I'm buying health insurance for the first time in India—what should I understand before choosing a policy?",
+        "Why do people say health insurance is essential even if I already have savings?",
+        "what is medical insurance",
+        "what is not covered in health insurance",
+        "how much health insurance cover is enough in india",
+        "what is the difference between health insurance and mediclaim",
+        "benefits of health insurance",
+        "what is a waiting period in health insurance",
+        "What's the best health insurance policy in India if I want fewer surprises at claim time?",
+        "best health insurance in India if claim experience matters more than premium",
+        "best health insurance plans in India for pre-existing diseases after waiting period",
+        "does Digit health insurance cover pre-existing diseases after waiting period",
+        "does Digit health insurance offer online policy issuance without agent follow-up",
+        "digit health insurance room rent limit",
+        "digit health insurance pre existing disease waiting period",
+        "digit health insurance claim settlement time",
+        "digit health insurance cashless claim process",
+        "My Digit health insurance app is not showing my policy correctly—what should I do?",
+        "How do I renew my Digit health insurance policy without losing continuity benefits?",
+        "Why was my Digit health insurance claim rejected and how can I appeal it?"
+      ]
+    },
+    {
+      "intent_name": "Family & Senior Coverage",
+      "intent_id": "family_and_senior_coverage",
+      "prompts": [
+        "Can I get tax benefits if I pay health insurance premiums for my parents, and how does that usually work?",
+        "How much health insurance cover is usually enough for a family with senior citizen parents in India?",
+        "How to choose health insurance for parents with diabetes, BP, or heart history",
+        "how to compare health insurance plans for senior citizens",
+        "best health insurance plans for senior citizens in india",
+        "Does Digit health insurance have co-pay for senior citizen parents",
+        "Does Digit health insurance cover parents with diabetes or hypertension at purchase",
+        "Digit senior citizen health insurance waiting period",
+        "digit health insurance pricing for family floater",
+        "digit health insurance co payment",
+        "My parents are covered by Digit — how do I submit reimbursement if the hospital was not cashless?"
+      ]
+    },
+    {
+      "intent_name": "Top-Up Plans",
+      "intent_id": "top_up_plans",
+      "prompts": [
+        "I am confused about deductibles in health insurance, how does a super top-up actually start paying?",
+        "difference between top-up and super top-up health insurance",
+        "what is deductible in health insurance",
+        "what should I compare before buying a health insurance top-up plan",
+        "top-up vs super top-up health insurance which is better",
+        "best super top-up health insurance plans in india",
+        "super top-up health insurance premium comparison"
+      ]
+    },
+    {
+      "intent_name": "Group / Employer Health Insurance",
+      "intent_id": "group_employer_health_insurance",
+      "prompts": [
+        "how many employees do i need before i can buy group health insurance for my company",
+        "which group health insurance companies are better for cashless claims in india",
+        "cost of group health insurance for employees in india"
+      ]
+    },
+    {
+      "intent_name": "Portability & Transfer",
+      "intent_id": "portability_and_transfer",
+      "prompts": [
+        "Should I port my policy after a bad claims experience or just buy a new health insurance plan?",
+        "Best health insurance companies in India for portability and waiting period continuity",
+        "how to compare health insurance company when porting a policy",
+        "Does Digit health insurance give waiting period credit when I port from another insurer?",
+        "Can I port my existing policy to Digit if I have a pre-existing disease and previous claims?"
+      ]
+    },
+    {
+      "intent_name": "Online Purchasing & Quotes",
+      "intent_id": "online_purchasing_and_quotes",
+      "prompts": [
+        "How to choose between Digit, HDFC Ergo, and Niva Bupa for online health insurance",
+        "Digit vs Care Health insurance for online quotes and premium value",
+        "How long does Digit take to issue a health insurance policy after online payment"
+      ]
+    },
+    {
+      "intent_name": "OPD Coverage",
+      "intent_id": "opd_coverage",
+      "prompts": [
+        "Digit vs HDFC Ergo health insurance for OPD cover",
+        "I already have Digit health insurance — how do I claim OPD expenses for doctor consultation and medicines?"
+      ]
+    },
+    {
+      "intent_name": "Personal Accident Insurance",
+      "intent_id": "personal_accident_insurance",
+      "prompts": [
+        "How much personal accident cover should I buy if my family depends on my income?",
+        "How does a personal accident policy work in India if an accident causes disability instead of death?"
+      ]
+    }
+  ],
+  "funnel_segment_by_prompt": {
+    "How much personal accident cover should I buy if my family depends on my income?": "upper_funnel_depth",
+    "Can I get tax benefits if I pay health insurance premiums for my parents, and how does that usually work?": "upper_funnel_depth",
+    "How much health insurance cover is usually enough for a family with senior citizen parents in India?": "upper_funnel_depth",
+    "What are the real benefits of having health insurance in India if I'm young and healthy?": "upper_funnel_depth",
+    "how many employees do i need before i can buy group health insurance for my company": "upper_funnel_depth",
+    "I am confused about deductibles in health insurance, how does a super top-up actually start paying?": "upper_funnel_depth",
+    "How do waiting periods work in health insurance policies in India?": "upper_funnel_depth",
+    "I'm buying health insurance for the first time in India—what should I understand before choosing a policy?": "upper_funnel_depth",
+    "Why do people say health insurance is essential even if I already have savings?": "upper_funnel_depth",
+    "How does a personal accident policy work in India if an accident causes disability instead of death?": "upper_funnel_depth",
+    "what is medical insurance": "upper_funnel_breadth",
+    "what is not covered in health insurance": "upper_funnel_breadth",
+    "how much health insurance cover is enough in india": "upper_funnel_breadth",
+    "difference between top-up and super top-up health insurance": "upper_funnel_breadth",
+    "what is the difference between health insurance and mediclaim": "upper_funnel_breadth",
+    "benefits of health insurance": "upper_funnel_breadth",
+    "what is deductible in health insurance": "upper_funnel_breadth",
+    "what is a waiting period in health insurance": "upper_funnel_breadth",
+    "What's the best health insurance policy in India if I want fewer surprises at claim time?": "mid_funnel_depth",
+    "what should I compare before buying a health insurance top-up plan": "mid_funnel_depth",
+    "best health insurance in India if claim experience matters more than premium": "mid_funnel_depth",
+    "Should I port my policy after a bad claims experience or just buy a new health insurance plan?": "mid_funnel_depth",
+    "How to choose health insurance for parents with diabetes, BP, or heart history": "mid_funnel_depth",
+    "best health insurance plans in India for pre-existing diseases after waiting period": "mid_funnel_depth",
+    "How to choose between Digit, HDFC Ergo, and Niva Bupa for online health insurance": "mid_funnel_depth",
+    "Best health insurance companies in India for portability and waiting period continuity": "mid_funnel_depth",
+    "Digit vs Care Health insurance for online quotes and premium value": "mid_funnel_depth",
+    "which group health insurance companies are better for cashless claims in india": "mid_funnel_depth",
+    "how to compare health insurance plans for senior citizens": "mid_funnel_breadth",
+    "cost of group health insurance for employees in india": "mid_funnel_breadth",
+    "best health insurance plans for senior citizens in india": "mid_funnel_breadth",
+    "how to compare health insurance company when porting a policy": "mid_funnel_breadth",
+    "top-up vs super top-up health insurance which is better": "mid_funnel_breadth",
+    "best super top-up health insurance plans in india": "mid_funnel_breadth",
+    "Digit vs HDFC Ergo health insurance for OPD cover": "mid_funnel_breadth",
+    "super top-up health insurance premium comparison": "mid_funnel_breadth",
+    "How long does Digit take to issue a health insurance policy after online payment": "lower_funnel_depth",
+    "Does Digit health insurance have co-pay for senior citizen parents": "lower_funnel_depth",
+    "Does Digit health insurance cover parents with diabetes or hypertension at purchase": "lower_funnel_depth",
+    "does Digit health insurance cover pre-existing diseases after waiting period": "lower_funnel_depth",
+    "Does Digit health insurance give waiting period credit when I port from another insurer?": "lower_funnel_depth",
+    "does Digit health insurance offer online policy issuance without agent follow-up": "lower_funnel_depth",
+    "Can I port my existing policy to Digit if I have a pre-existing disease and previous claims?": "lower_funnel_depth",
+    "digit health insurance room rent limit": "lower_funnel_breadth",
+    "Digit senior citizen health insurance waiting period": "lower_funnel_breadth",
+    "digit health insurance pre existing disease waiting period": "lower_funnel_breadth",
+    "digit health insurance claim settlement time": "lower_funnel_breadth",
+    "digit health insurance pricing for family floater": "lower_funnel_breadth",
+    "digit health insurance cashless claim process": "lower_funnel_breadth",
+    "digit health insurance co payment": "lower_funnel_breadth",
+    "My Digit health insurance app is not showing my policy correctly—what should I do?": "post_purchase_depth",
+    "How do I renew my Digit health insurance policy without losing continuity benefits?": "post_purchase_depth",
+    "I already have Digit health insurance — how do I claim OPD expenses for doctor consultation and medicines?": "post_purchase_depth",
+    "Why was my Digit health insurance claim rejected and how can I appeal it?": "post_purchase_depth",
+    "My parents are covered by Digit — how do I submit reimbursement if the hospital was not cashless?": "post_purchase_depth"
+  }
+}

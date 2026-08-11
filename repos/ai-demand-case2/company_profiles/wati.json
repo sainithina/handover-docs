@@ -1,0 +1,169 @@
+{
+  "company_name": "Wati",
+  "aliases": ["Wati.io", "wati.io", "Wati AI"],
+  "description": "Wati is the #1 WhatsApp growth platform for business messaging. From the first marketing touchpoint through the sales cycle to ongoing customer success, Wati drives faster ROI with an easy-to-use, scalable AI-native platform. Trusted by 16,000+ customers worldwide across 100+ countries. Wati AI is the Conversational Intelligence Layer for modern businesses—featuring Copilot, AI Agents, and BYOA. WhatsApp at the core with unified inbox for Instagram, Facebook Messenger, SMS, calls and other channels. 10B+ messages processed, 99.9% historical uptime, GDPR compliant. G2 Leader Asia Pacific, High Performer Latin America and EMEA. Customers include Habuild, Vedantu, ENI Networks, ProMujer, Blacklyf, Oxwhite, Printcious, Heritage, RocketHealth, Dreamtime.",
+  "industry": "Business Messaging / Conversational AI",
+  "sub_industry": "WhatsApp Business Platform",
+  "products_services": [
+    {
+      "name": "Wati for Marketing",
+      "description": "Acquire, engage, and qualify leads with personalized campaigns at scale",
+      "key_features": [
+        "Click-to-WhatsApp ads (Meta, Google) — turn ad clicks into chats",
+        "4x less CAC, 3x more ROI, 85% higher response rate",
+        "Convert touchpoints from links, offline, ads into conversations",
+        "AI-fueled post-conversion workflows",
+        "Campaign insights, attribution, retargeting"
+      ],
+      "target_users": ["Marketing teams", "Growth marketers", "E-commerce brands"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Wati for Sales",
+      "description": "Accelerate pipeline, increase conversions, shorten sales cycles on chat",
+      "key_features": [
+        "Unified workspace for sales reps",
+        "Real-time lead qualification on WhatsApp",
+        "Wati AI qualifies leads and hands off best-fit to reps",
+        "30% reduction in sales cycle, 3x faster responses, 20% revenue growth",
+        "Demo scheduling, catalog sharing, appointment booking"
+      ],
+      "target_users": ["Sales teams", "SDRs", "Revenue teams"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Wati for Support",
+      "description": "Delight customers and handle questions at scale with Wati AI",
+      "key_features": [
+        "AI Support Agent — 60% queries answered instantly, 80% FAQs resolved by AI",
+        "Knowledge base–grounded answers 24/7",
+        "Advanced routing rules for complex conversations",
+        "Unified Team Inbox (tags, contact attributes, history)",
+        "40% less workload, 40% faster resolutions"
+      ],
+      "target_users": ["Support teams", "Customer success", "Care teams"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Wati AI",
+      "description": "Conversational Intelligence Layer — Copilot, AI Agents, BYOA",
+      "key_features": [
+        "Inbound Intelligence Agent for lead qualification and sales on chat",
+        "AI Support Agent for instant query resolution",
+        "No-code chatbots — AI-powered, human-like for every use case",
+        "10x performance improvement"
+      ],
+      "target_users": ["Marketing", "Sales", "Support teams"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Core Platform",
+      "description": "WhatsApp-centric messaging with multi-channel unified inbox",
+      "key_features": [
+        "Team Inbox — all sales & support chats in one place",
+        "Campaigns — personalized campaigns with best delivery rates",
+        "Instagram and Facebook Messenger integration",
+        "WhatsApp Business Calling — full voice channel",
+        "Multiple WhatsApp numbers, Catalog, Custom notifications",
+        "100+ integrations: Salesforce, HubSpot, Zapier, Zoho CRM, Shopify, WooCommerce, Pabbly Connect, Make, Klaviyo"
+      ],
+      "target_users": ["SMBs", "Enterprise", "Marketing agencies"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "Marketing Manager",
+      "role": "Marketing",
+      "seniority": "Mid to senior",
+      "goals": [
+        "Acquire and engage leads at scale",
+        "Improve campaign ROI and attribution",
+        "Personalize messaging"
+      ],
+      "pains": [
+        "Low response rates on traditional channels",
+        "Poor attribution",
+        "Manual campaign management"
+      ],
+      "typical_workflow": "Campaign creation, ad-to-chat flows, lead nurturing",
+      "constraints": ["Budget", "Team size"]
+    },
+    {
+      "name": "Sales Rep",
+      "role": "Sales",
+      "seniority": "Individual contributor to manager",
+      "goals": [
+        "Qualify leads faster",
+        "Shorten sales cycles",
+        "Convert more on WhatsApp"
+      ],
+      "pains": [
+        "Leads slipping through cracks",
+        "Slow response times",
+        "High lead volume"
+      ],
+      "typical_workflow": "Lead qualification, demo scheduling, pipeline management",
+      "constraints": []
+    },
+    {
+      "name": "Support Team Lead",
+      "role": "Customer support",
+      "seniority": "Manager",
+      "goals": [
+        "Resolve queries faster",
+        "Reduce workload",
+        "Scale support"
+      ],
+      "pains": [
+        "Repetitive FAQ handling",
+        "Slow resolution times",
+        "Multi-channel fragmentation"
+      ],
+      "typical_workflow": "Query handling, routing, team inbox management",
+      "constraints": []
+    }
+  ],
+  "primary_geos": ["Global", "Asia Pacific", "Latin America", "EMEA", "India"],
+  "primary_languages": ["en", "pt", "es", "zh", "zh-TW", "ar"],
+  "competitors": [
+    {"name": "Interakt", "aliases": [], "notes": null},
+    {"name": "AiSensy", "aliases": [], "notes": null},
+    {"name": "Manychat", "aliases": [], "notes": null}
+  ],
+  "differentiators": [
+    "#1 WhatsApp growth platform",
+    "16,000+ customers, 10B+ messages processed",
+    "Wati AI: 60% queries deflected, 10x performance",
+    "Unified inbox: WhatsApp, Instagram, Facebook, SMS, calls",
+    "100+ integrations (Salesforce, HubSpot, Shopify, Zapier)",
+    "99.9% uptime, GDPR compliant, 100+ countries",
+    "G2 Leader Asia Pacific, High Performer Latin America & EMEA"
+  ],
+  "common_misconceptions": [],
+  "regulated_or_sensitive_topics": [],
+  "seed_queries": [],
+  "must_include_terms": [
+    "WhatsApp",
+    "business messaging",
+    "conversational"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "WhatsApp business",
+    "Wati",
+    "Wati.io",
+    "WhatsApp marketing",
+    "WhatsApp sales",
+    "WhatsApp support",
+    "conversational AI",
+    "Click to WhatsApp",
+    "CTWA",
+    "WhatsApp chatbot",
+    "business messaging platform",
+    "Wati AI",
+    "WhatsApp automation",
+    "Team Inbox WhatsApp",
+    "WhatsApp campaigns"
+  ]
+}

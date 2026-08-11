@@ -1,0 +1,288 @@
+{
+  "groups": [
+    {
+      "group_name": "Portability & Transfer",
+      "keywords": [
+        {
+          "keyword": "health insurance portability",
+          "asv": 114.0
+        },
+        {
+          "keyword": "how to port health insurance",
+          "asv": 8.0
+        },
+        {
+          "keyword": "port health insurance",
+          "asv": 8.0
+        },
+        {
+          "keyword": "waiting period in health insurance",
+          "asv": 465.0
+        }
+      ]
+    },
+    {
+      "group_name": "OPD Coverage",
+      "keywords": [
+        {
+          "keyword": "health insurance with opd cover",
+          "asv": 20.0
+        },
+        {
+          "keyword": "health insurance with opd",
+          "asv": 20.0
+        }
+      ]
+    },
+    {
+      "group_name": "Top-Up Plans",
+      "keywords": [
+        {
+          "keyword": "super top up plan",
+          "asv": 4.0
+        },
+        {
+          "keyword": "best super top up health insurance",
+          "asv": 18953.0
+        },
+        {
+          "keyword": "super top up policy",
+          "asv": 10.0
+        },
+        {
+          "keyword": "health insurance top up plan",
+          "asv": 9913.0
+        },
+        {
+          "keyword": "super top up",
+          "asv": 3425.0
+        }
+      ]
+    },
+    {
+      "group_name": "Group / Employer Health Insurance",
+      "keywords": [
+        {
+          "keyword": "group health insurance for employees",
+          "asv": 945.0
+        },
+        {
+          "keyword": "group insurance for employees",
+          "asv": 155.0
+        },
+        {
+          "keyword": "group mediclaim insurance policy for employees",
+          "asv": 155.0
+        },
+        {
+          "keyword": "group health insurance",
+          "asv": 945.0
+        },
+        {
+          "keyword": "group health insurance policy",
+          "asv": 945.0
+        },
+        {
+          "keyword": "group medical insurance",
+          "asv": 717.0
+        },
+        {
+          "keyword": "group insurance policy for employees",
+          "asv": 155.0
+        },
+        {
+          "keyword": "group mediclaim policy for employees",
+          "asv": 20.0
+        },
+        {
+          "keyword": "corporate health insurance",
+          "asv": 48.0
+        }
+      ]
+    },
+    {
+      "group_name": "Family & Senior Coverage",
+      "keywords": [
+        {
+          "keyword": "family health insurance plans",
+          "asv": 1209.0
+        },
+        {
+          "keyword": "health insurance for parents",
+          "asv": 558.0
+        },
+        {
+          "keyword": "parents health insurance tax benefit",
+          "asv": 558.0
+        },
+        {
+          "keyword": "medical insurance for parents",
+          "asv": 22.0
+        },
+        {
+          "keyword": "health insurance plans for senior citizens",
+          "asv": 8456.0
+        },
+        {
+          "keyword": "health insurance for senior citizens",
+          "asv": 757.0
+        },
+        {
+          "keyword": "medical insurance for senior citizens",
+          "asv": 737.0
+        },
+        {
+          "keyword": "mediclaim for family",
+          "asv": 10.0
+        },
+        {
+          "keyword": "mediclaim for senior citizens",
+          "asv": 10.0
+        }
+      ]
+    },
+    {
+      "group_name": "General Health Insurance & Policies",
+      "keywords": [
+        {
+          "keyword": "health insurance",
+          "asv": 216306.0
+        },
+        {
+          "keyword": "individual health insurance",
+          "asv": 1038.0
+        },
+        {
+          "keyword": "types of health insurance",
+          "asv": 2910.0
+        },
+        {
+          "keyword": "arogya sanjeevani policy",
+          "asv": 20.0
+        },
+        {
+          "keyword": "health insurance in india",
+          "asv": 400.0
+        },
+        {
+          "keyword": "health insurance policy",
+          "asv": 828.0
+        },
+        {
+          "keyword": "health insurance policy in india",
+          "asv": 400.0
+        },
+        {
+          "keyword": "health policy",
+          "asv": 3113.0
+        },
+        {
+          "keyword": "health insurance plans",
+          "asv": 8456.0
+        },
+        {
+          "keyword": "health insurance plans in india",
+          "asv": 400.0
+        },
+        {
+          "keyword": "best health insurance policy in india",
+          "asv": 18953.0
+        },
+        {
+          "keyword": "best health insurance plans in india",
+          "asv": 18953.0
+        },
+        {
+          "keyword": "medical insurance",
+          "asv": 21688.0
+        },
+        {
+          "keyword": "medical insurance india",
+          "asv": 73.0
+        },
+        {
+          "keyword": "medical insurance online",
+          "asv": 4.0
+        },
+        {
+          "keyword": "medical health insurance",
+          "asv": 463.0
+        },
+        {
+          "keyword": "medical insurance plans",
+          "asv": 2036.0
+        },
+        {
+          "keyword": "medical insurance policy",
+          "asv": 140.0
+        },
+        {
+          "keyword": "mediclaim policy",
+          "asv": 22.0
+        },
+        {
+          "keyword": "mediclaim insurance",
+          "asv": 5.0
+        },
+        {
+          "keyword": "critical illness policy",
+          "asv": 85.0
+        },
+        {
+          "keyword": "benefits of health insurance",
+          "asv": 538.0
+        }
+      ]
+    },
+    {
+      "group_name": "Online Purchasing & Quotes",
+      "keywords": [
+        {
+          "keyword": "buy health insurance online",
+          "asv": 2012.0
+        },
+        {
+          "keyword": "online health insurance",
+          "asv": 262.0
+        },
+        {
+          "keyword": "buy health insurance",
+          "asv": 2012.0
+        },
+        {
+          "keyword": "health insurance quotes",
+          "asv": 21.0
+        },
+        {
+          "keyword": "health insurance premium calculator",
+          "asv": 83.0
+        },
+        {
+          "keyword": "health insurance premium",
+          "asv": 2010.0
+        },
+        {
+          "keyword": "health insurance calculator",
+          "asv": 83.0
+        }
+      ]
+    },
+    {
+      "group_name": "Personal Accident Insurance",
+      "keywords": [
+        {
+          "keyword": "best accidental insurance plan",
+          "asv": 3.0
+        },
+        {
+          "keyword": "group personal accident insurance",
+          "asv": 24.0
+        },
+        {
+          "keyword": "personal accident policy",
+          "asv": 24.0
+        }
+      ]
+    }
+  ]
+}

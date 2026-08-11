@@ -23,7 +23,8 @@ Output units: **AI-demand units / month**, with a 90% interval when fusion succe
 
 | Role | Absolute path |
 |---|---|
-| **Research / richest source of truth (zip this)** | `/Users/sainithinartham/Downloads/ai-demand-case2` |
+| **In this handover repo (shipped copy)** | [`repos/ai-demand-case2/`](../repos/ai-demand-case2/) |
+| **Research / richest local checkout** | `/Users/sainithinartham/Downloads/ai-demand-case2` |
 | **Production engine (vendored in Airflow)** | `/Users/sainithinartham/Downloads/gravton-console/airflow/dags/repos/ai-demand-case2` |
 | **Prod orchestration** | `prompt_volume_dag.py`, `keyword_volume_dag.py` |
 | **Prod bridge** | `airflow/dags/utils/case2_gravton_bridge.py` (+ `prompt_volume_gravton_bridge.py`) |

@@ -1,0 +1,159 @@
+{
+  "company_name": "JustDial",
+  "aliases": ["Just Dial", "JD", "justdial.com"],
+  "description": "JustDial Limited is India's No. 1 local search engine, providing local search-related services across India through website, mobile website, apps (Android and iOS), telephone (8888888888), and SMS. Access to 5.3 crore+ businesses and 5.9 crore+ products and services. One-stop platform for local businesses, services, and stores nearby—covering restaurants, hotels, doctors, real estate, repairs, beauty & spa, wedding planning, education, home decor, hospitals, and more. Features include interactive maps, price comparison, user ratings and reviews, appointment booking, and 'Near Me' location-based search. Additional services: JD Mart (B2B connections), Bills & Recharge (utility payments for insurance, gas, water, DTH, electricity, mobile), travel bookings (hotels, trains, buses, flights), and movie tickets. Available in English, Hindi, Marathi, Bengali, Gujarati, Kannada, and Tamil.",
+  "industry": "Local Search / Directory Services",
+  "sub_industry": "Local Search Engine & Business Directory",
+  "products_services": [
+    {
+      "name": "Local Search",
+      "description": "Find local businesses, services, and stores nearby across India with location-based results.",
+      "key_features": [
+        "5.3 crore+ businesses, 5.9 crore+ products and services",
+        "Interactive maps and directions",
+        "User ratings and reviews",
+        "Price comparison across partners",
+        "Near Me location-based search",
+        "Appointment booking with service providers"
+      ],
+      "target_users": ["Consumers seeking local services", "Households", "Small business researchers"],
+      "pricing_notes": null
+    },
+    {
+      "name": "JD Mart",
+      "description": "B2B marketplace connecting businesses with suppliers and buyers.",
+      "key_features": [
+        "B2B connections",
+        "Business-to-business search",
+        "Supplier discovery"
+      ],
+      "target_users": ["SMBs", "Wholesalers", "Retailers", "Manufacturers"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Bills & Recharge",
+      "description": "Pay utility bills and recharge instantly—insurance, gas, water, DTH, electricity, mobile.",
+      "key_features": [
+        "Insurance premium payment",
+        "Gas, water, electricity bills",
+        "DTH and mobile recharge",
+        "Instant payment processing"
+      ],
+      "target_users": ["Households", "Individual consumers"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Travel Bookings",
+      "description": "Hotel, train, bus, and flight bookings. Car rentals and cab services.",
+      "key_features": [
+        "Hotel bookings",
+        "Train, bus, flight tickets",
+        "Cab and car rental",
+        "Powered by Easemytrip for flights"
+      ],
+      "target_users": ["Travelers", "Business travelers", "Families"],
+      "pricing_notes": null
+    },
+    {
+      "name": "Business Listing & Advertising",
+      "description": "Free listing for businesses and paid advertising to reach local customers.",
+      "key_features": [
+        "Free business listing",
+        "Advertise on JustDial",
+        "Visibility across web, app, and phone",
+        "Lead generation for local businesses"
+      ],
+      "target_users": ["Local businesses", "SMBs", "Service providers", "Retailers"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "Local Consumer",
+      "role": "Individual / Household",
+      "seniority": "N/A",
+      "goals": [
+        "Find nearby businesses and services",
+        "Compare options and read reviews",
+        "Book appointments or get directions"
+      ],
+      "pains": [
+        "Unreliable local information",
+        "Scattered search across platforms"
+      ],
+      "typical_workflow": "Search by category or keyword, filter by location, compare, contact or book",
+      "constraints": ["Location", "Budget"]
+    },
+    {
+      "name": "Small Business Owner",
+      "role": "Business owner",
+      "seniority": "Owner / Manager",
+      "goals": [
+        "Get listed for free visibility",
+        "Generate leads from local searches",
+        "Advertise to reach nearby customers"
+      ],
+      "pains": [
+        "Low local discoverability",
+        "High cost of traditional advertising"
+      ],
+      "typical_workflow": "Free listing, upgrade to paid ads, manage leads and enquiries",
+      "constraints": ["Marketing budget"]
+    },
+    {
+      "name": "Utility Bill Payer / Recharge User",
+      "role": "Individual",
+      "seniority": "N/A",
+      "goals": [
+        "Pay bills and recharge in one place",
+        "Quick mobile recharge",
+        "Insurance and utility payments"
+      ],
+      "pains": [
+        "Multiple apps for different bills",
+        "Last-minute recharges"
+      ],
+      "typical_workflow": "Open JustDial, select bill/recharge type, pay instantly",
+      "constraints": []
+    }
+  ],
+  "primary_geos": ["India"],
+  "primary_languages": ["en", "hi", "mr", "bn", "gu", "kn", "ta"],
+  "competitors": [
+    {"name": "Google Maps", "aliases": ["Google Local"], "notes": "Local search and maps"},
+    {"name": "Sulekha", "aliases": [], "notes": "Local services and classifieds"},
+    {"name": "IndiaMART", "aliases": [], "notes": "B2B marketplace overlap with JD Mart"},
+    {"name": "Yellow Pages India", "aliases": [], "notes": "Business directory"},
+    {"name": "Magicbricks", "aliases": [], "notes": "Real estate overlap"}
+  ],
+  "differentiators": [
+    "India's No. 1 local search engine",
+    "5.3 crore+ businesses, 5.9 crore+ products",
+    "Multi-channel: web, app, phone (8888888888), SMS",
+    "Bills & Recharge, travel, JD Mart in one platform",
+    "Multi-language: Hindi, Marathi, Bengali, Gujarati, Kannada, Tamil",
+    "Free listing for businesses"
+  ],
+  "common_misconceptions": [],
+  "regulated_or_sensitive_topics": [],
+  "seed_queries": [],
+  "must_include_terms": [
+    "local search",
+    "India",
+    "business"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "JustDial",
+    "Just Dial",
+    "local search India",
+    "find businesses near me",
+    "JD Mart",
+    "JustDial app",
+    "8888888888",
+    "local directory India",
+    "business listing India",
+    "JustDial recharge",
+    "JustDial bills"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "company_name": "Early Steps Academy",
+  "aliases": ["Early Steps", "earlysteps.co"],
+  "description": "Early Steps Academy offers the world's first and only live online case study classes for children ages 8-18. Built by alumni of Harvard Business School, it teaches 1000+ essential new-age subjects and skills through the case study method. The program uses a proprietary algorithmic classroom learning framework designed through deep research on learning outcomes. Students develop the 4C skills: Critical and Structured Thinking, Communication in English, Collaborative Attitude, and Creativity. 94% of parents say their child is more confident, 97% report improved grades, and 100% of children say Early Steps is the most fun place to learn. Mentors include Harvard Business School faculty and McKinsey consultants. Corporate partners include Bain & Company, Schlumberger, and Teach for India.",
+  "industry": "EdTech",
+  "sub_industry": "K-12 Online Education",
+  "products_services": [
+    {
+      "name": "7-Level Case Study Course",
+      "description": "Progressive curriculum teaching new-age subjects and thinking skills through live case study classes for ages 8-18",
+      "key_features": [
+        "World's first case study classes for children",
+        "Proprietary algorithmic classroom learning framework",
+        "Live online global classrooms",
+        "7-level progressive structure"
+      ],
+      "target_users": ["Children ages 8-18", "Parents seeking enrichment"],
+      "pricing_notes": null
+    },
+    {
+      "name": "4C Skills Program",
+      "description": "Develops Critical and Structured Thinking, Communication in English, Collaborative Attitude, and Creativity",
+      "key_features": [
+        "Critical thinking",
+        "Impactful communication",
+        "New-age subjects",
+        "Better grades, higher confidence, secure future"
+      ],
+      "target_users": ["Students 8-18", "Parents"],
+      "pricing_notes": null
+    }
+  ],
+  "customer_personas": [
+    {
+      "name": "Concerned Parent",
+      "role": "Parent of school-age child",
+      "seniority": null,
+      "goals": [
+        "Child's confidence and grades improvement",
+        "Future-ready skills",
+        "Critical thinking and communication"
+      ],
+      "pains": [
+        "Traditional school not enough",
+        "Worried about child's future competitiveness",
+        "Seeking unique educational experiences"
+      ],
+      "typical_workflow": "Researching enrichment programs, comparing options, trial classes",
+      "constraints": ["Budget", "Time for extra classes", "Child's willingness"]
+    },
+    {
+      "name": "Student (8-18)",
+      "role": "Student",
+      "seniority": null,
+      "goals": [
+        "Learn to think fast and structured",
+        "Improve grades",
+        "Have fun while learning"
+      ],
+      "pains": [
+        "School can be boring",
+        "Lack of practical thinking skills",
+        "Want more engaging learning"
+      ],
+      "typical_workflow": "Weekly case study classes, preparation, challenges",
+      "constraints": []
+    }
+  ],
+  "primary_geos": ["United States", "India", "Malaysia"],
+  "primary_languages": ["en"],
+  "competitors": [],
+  "differentiators": [
+    "World's first case study classes for children",
+    "Harvard alumni-built, HBS faculty advisors",
+    "Proprietary algorithmic learning framework",
+    "94% confidence, 97% grade improvement, 100% fun",
+    "Global community of learners",
+    "Mentors from Harvard, Stanford, McKinsey"
+  ],
+  "common_misconceptions": [],
+  "regulated_or_sensitive_topics": [],
+  "seed_queries": [],
+  "must_include_terms": [
+    "case study",
+    "children",
+    "kids",
+    "learning",
+    "critical thinking"
+  ],
+  "must_avoid_terms": [],
+  "explicit_keywords": [
+    "case study learning for children",
+    "Early Steps Academy",
+    "online classes for kids",
+    "critical thinking for children",
+    "case study method children",
+    "Harvard case study kids",
+    "live online classes 8-18",
+    "4C skills children",
+    "new-age subjects kids",
+    "children confidence",
+    "kids critical thinking",
+    "case study classes children"
+  ]
+}
