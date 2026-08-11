@@ -1,6 +1,6 @@
 # Products Built & Launched
 
-Status is inferred from code, docs, and work history. **“Launched”** means shipped to customers or live in the product; mark uncertain items clearly.
+**“Launched”** means shipped to customers or live in the product; mark uncertain items clearly.
 
 ---
 
@@ -43,7 +43,7 @@ Status is inferred from code, docs, and work history. **“Launched”** means s
 
 ---
 
-## Broader product surfaces Sai contributed to
+## Broader product surfaces i have contributed to
 
 | Product | Status (inferred) | Key paths |
 |---|---|---|
@@ -81,12 +81,3 @@ Product context maps: [product-brain/module-map.md](./product-brain/module-map.m
 
 ---
 
-## Suggested ownership after departure
-
-| Area | Suggested next owner focus |
-|---|---|
-| Case2 math + calibration | Whoever owns insights / demand map numbers |
-| Airflow volume DAGs | Platform / Airflow on-call |
-| Scorecards ops | Sales eng / CS eng using `scorecard_run` CLI |
-| Hospitality metrics | Research — only if hospitality GTM continues |
-| Demand Lens | Finish `feat/demand-lens` brainstorm → tech-spec path |
