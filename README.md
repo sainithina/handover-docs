@@ -1,9 +1,6 @@
-# Sai Nithin — Gravton Departure Handover Pack
+# Sai Nithin —  Handover
 
 **Date:** 2026-08-11  
-**Owner leaving:** Sai Nithin (`sainithina@gravton.ai`)  
-**Purpose:** Single pack to zip / email so the team can continue volume prediction, scorecards, research, and related products without tribal knowledge.
-
 ---
 
 ## Start here
