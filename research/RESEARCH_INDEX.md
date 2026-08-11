@@ -55,23 +55,10 @@ Copied from `ai-demand-case2/docs/research/`:
 | AI Demand Scorecards 2-page design | [papers-and-decks/AI_Demand_Scorecards_2_Page_Design_Doc.docx](./papers-and-decks/AI_Demand_Scorecards_2_Page_Design_Doc.docx) |
 | Scorecard design / feasibility / prompt simplification | [../products/scorecards/](../products/scorecards/) |
 
----
-
-## D. Still on disk (not copied — attach if needed)
-
-These remain under `~/Downloads/` (client-sensitive or bulky):
-
-- `pine-labs-prompts-20260706.pdf` (+ copy)  
-- `pmu_deep_prompt_analysis.docx`  
-- `Gravton Labs Mail - Prompt Volume Data Not Populating…` (ops incident)  
-- `Prompt Volume Confidence.xlsx`  
-- Sample scorecard PDFs / HTML Approach 1 & 2  
-- `ai-demand-case2/runs/*` (hundreds of MB of run artifacts)  
-- `hospitality_metrics/runs/*`  
 
 ---
 
-## E. Suggested reading order for a new owner
+## D. Suggested reading order for a new owner
 
 1. [../volume-prediction/ALGORITHM.md](../volume-prediction/ALGORITHM.md)  
 2. [../volume-prediction/FLOW.md](../volume-prediction/FLOW.md)  
